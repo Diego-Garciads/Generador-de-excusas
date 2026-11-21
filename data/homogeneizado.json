@@ -1,0 +1,1926 @@
+[
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Buñol",
+    "descripcion": "obras en A-3 km 315.0 (Buñol)",
+    "inicio": "2026-07-13T17:24:00+02:00",
+    "fin": "2026-12-31T13:00:00+01:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "corte",
+    "zona": "Alboraya",
+    "descripcion": "un corte de carril en V-21 km 16.4 (Alboraia/Alboraya)",
+    "inicio": "2026-10-17T19:14:04+02:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Càrcer",
+    "descripcion": "obras en CV-560 km 7.6 (Càrcer)",
+    "inicio": "2026-08-03T13:00:00+02:00",
+    "fin": "2026-11-27T13:00:00+01:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Càrcer",
+    "descripcion": "obras en CV-560 km 7.8 (Càrcer)",
+    "inicio": "2026-08-03T13:00:00+02:00",
+    "fin": "2026-11-27T13:00:00+01:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Canals",
+    "descripcion": "obras en A-7 km 408.0 (Canals)",
+    "inicio": "2026-08-30T18:50:46+02:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Sagunto",
+    "descripcion": "obras en N-340 km 931.4 (Sagunt/Sagunto)",
+    "inicio": "2026-09-01T12:24:17+02:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Llocnou d'En Fenollet",
+    "descripcion": "obras en CV-600 km 3.6 (Llocnou d'En Fenollet)",
+    "inicio": "2026-09-07T18:21:00+02:00",
+    "fin": "2027-01-07T19:00:00+01:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Llocnou d'En Fenollet",
+    "descripcion": "obras en CV-600 km 3.4 (Llocnou d'En Fenollet)",
+    "inicio": "2026-09-07T18:21:00+02:00",
+    "fin": "2027-01-07T19:00:00+01:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Real",
+    "descripcion": "obras en CV-50 km 50.3 (Real)",
+    "inicio": "2026-10-26T09:10:00+01:00",
+    "fin": "2026-12-23T18:00:00+01:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "València",
+    "descripcion": "obras en V-30 km 0.0 (València)",
+    "inicio": "2026-10-13T13:21:00+02:00",
+    "fin": "2027-02-28T23:59:00+01:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Massalavés",
+    "descripcion": "obras en A-7 km 377.5 (Massalavés)",
+    "inicio": "2026-10-13T23:24:24+02:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "València",
+    "descripcion": "obras en V-30 km 0.0 (València)",
+    "inicio": "2026-10-16T22:46:38+02:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Alborache",
+    "descripcion": "obras en CV-425 km 5.8 (Alborache)",
+    "inicio": "2026-10-22T09:02:00+02:00",
+    "fin": "2027-05-31T19:00:00+02:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Buñol",
+    "descripcion": "obras en CV-425 km 3.9 (Buñol)",
+    "inicio": "2026-10-22T09:01:00+02:00",
+    "fin": "2027-05-31T19:00:00+02:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Buñol",
+    "descripcion": "obras en CV-425 km 3.9 (Buñol)",
+    "inicio": "2026-10-22T09:02:00+02:00",
+    "fin": "2027-05-31T19:00:00+02:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "Alborache",
+    "descripcion": "un obstáculo en la calzada en CV-425 km 5.8 (Alborache)",
+    "inicio": "2026-10-22T09:02:00+02:00",
+    "fin": "2027-05-31T19:00:00+02:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "Buñol",
+    "descripcion": "un obstáculo en la calzada en CV-425 km 3.9 (Buñol)",
+    "inicio": "2026-10-22T09:02:00+02:00",
+    "fin": "2027-05-31T19:00:00+02:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Yátova",
+    "descripcion": "obras en CV-429 km 19.3 (Yátova)",
+    "inicio": "2026-11-04T07:44:00+01:00",
+    "fin": "2027-07-31T18:30:00+02:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Yátova",
+    "descripcion": "obras en CV-429 km 11.3 (Yátova)",
+    "inicio": "2026-11-04T07:44:00+01:00",
+    "fin": "2027-07-31T18:30:00+02:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Manises",
+    "descripcion": "obras en N-220 km 0.0 (Manises)",
+    "inicio": "2026-10-29T11:04:00+01:00",
+    "fin": "2027-04-29T18:00:00+02:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Paterna",
+    "descripcion": "obras en N-220 km 1.8 (Paterna)",
+    "inicio": "2026-10-29T11:04:00+01:00",
+    "fin": "2027-04-29T18:00:00+02:00",
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "corte",
+    "zona": "Buñol",
+    "descripcion": "un corte de carril en A-3 km 317.0 (Buñol)",
+    "inicio": "2026-10-30T16:40:47+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "infraestructura",
+    "zona": "Paterna",
+    "descripcion": "daños en la infraestructura en V-30 km 15.1 (Paterna)",
+    "inicio": "2026-10-31T12:59:12+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "vehiculo_parado",
+    "zona": "València",
+    "descripcion": "un vehículo averiado o parado en CV-500 km 0.916 (València)",
+    "inicio": "2026-11-04T09:06:58+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "corte",
+    "zona": "Albuixech",
+    "descripcion": "un corte de carril en V-21 km 10.39 (Albuixech)",
+    "inicio": "2026-11-05T00:11:58+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "vehiculo_parado",
+    "zona": "Sagunto",
+    "descripcion": "un vehículo averiado o parado en A-7 km 297.004 (Sagunt/Sagunto)",
+    "inicio": "2026-11-07T15:09:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "Benifairó de la Valldigna",
+    "descripcion": "un obstáculo en la calzada en CV-50 km 6.936 (Benifairó de la Valldigna)",
+    "inicio": "2026-11-07T17:32:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "Alboraya",
+    "descripcion": "un obstáculo en la calzada en V-21 km 14.885 (Alboraia/Alboraya)",
+    "inicio": "2026-11-07T18:53:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "Mislata",
+    "descripcion": "un obstáculo en la calzada en V-30 km 9.676 (Mislata)",
+    "inicio": "2026-11-08T02:52:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "Burjassot",
+    "descripcion": "un obstáculo en la calzada en CV-35 km 2.832 (Burjassot)",
+    "inicio": "2026-11-08T06:44:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "Llíria",
+    "descripcion": "un obstáculo en la calzada en CV-35 km 33.032 (Llíria)",
+    "inicio": "2026-11-08T10:02:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "meteo",
+    "subtipo": "meteo",
+    "zona": "el Real de Gandia",
+    "descripcion": "condiciones meteorológicas adversas en AP-7 km 581.97 (el Real de Gandia)",
+    "inicio": "2026-11-08T10:13:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "València",
+    "descripcion": "un obstáculo en la calzada en CV-500 km 0.529 (València)",
+    "inicio": "2026-11-08T10:15:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "Alaquàs",
+    "descripcion": "un obstáculo en la calzada en CV-410 km 1.34 (Alaquàs)",
+    "inicio": "2026-11-08T10:37:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "accidente",
+    "zona": "Estivella",
+    "descripcion": "un accidente en CV-334 km 4.878 (Estivella)",
+    "inicio": "2026-11-08T10:53:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "Oliva",
+    "descripcion": "un obstáculo en la calzada en AP-7 km 591.999 (Oliva)",
+    "inicio": "2026-11-08T11:00:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "el Puig de Santa Maria",
+    "descripcion": "un obstáculo en la calzada en CV-3182 km 0.01 (el Puig de Santa Maria)",
+    "inicio": "2026-11-08T11:06:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "accidente",
+    "zona": "Requena",
+    "descripcion": "un accidente en A-3 km 283.011 (Requena)",
+    "inicio": "2026-11-08T11:25:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "vehiculo_parado",
+    "zona": "Sollana",
+    "descripcion": "un vehículo averiado o parado en AP-7 km 532.959 (Sollana)",
+    "inicio": "2026-11-08T11:45:17+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "vehiculo_parado",
+    "zona": "Meliana",
+    "descripcion": "un vehículo averiado o parado en CV-300 km 11.676 (Meliana)",
+    "inicio": "2026-11-08T11:47:13+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "Turís",
+    "descripcion": "un obstáculo en la calzada en CV-415 km 20.0 (Turís)",
+    "inicio": "2026-11-08T11:46:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "Andilla",
+    "descripcion": "un obstáculo en la calzada en CV-345 km 21.998 (Andilla)",
+    "inicio": "2026-11-08T11:46:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "vehiculo_parado",
+    "zona": "Silla",
+    "descripcion": "un vehículo averiado o parado en CV-42 km 21.698 (Silla)",
+    "inicio": "2026-11-08T11:49:26+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "Gilet",
+    "descripcion": "un obstáculo en la calzada en CV-3280 km 0.874 (Gilet)",
+    "inicio": "2026-11-08T11:48:00+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "obstaculo",
+    "zona": "Requena",
+    "descripcion": "un obstáculo en la calzada en A-3 km 291.0 (Requena)",
+    "inicio": "2026-11-08T11:51:44+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "vehiculo_parado",
+    "zona": "San Antonio de Benagéber",
+    "descripcion": "un vehículo averiado o parado en CV-35 km 12.518 (San Antonio de Benagéber)",
+    "inicio": "2026-11-08T11:54:16+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "vehiculo_parado",
+    "zona": "Bétera",
+    "descripcion": "un vehículo averiado o parado en CV-336 km 13.183 (Bétera)",
+    "inicio": "2026-11-08T11:57:25+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "vehiculo_parado",
+    "zona": "Benaguasil",
+    "descripcion": "un vehículo averiado o parado en CV-3731 km 1.525 (Benaguasil)",
+    "inicio": "2026-11-08T11:59:52+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "vehiculo_parado",
+    "zona": "València",
+    "descripcion": "un vehículo averiado o parado en A-7 km 321.354 (València)",
+    "inicio": "2026-11-08T12:04:20+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "vehiculo_parado",
+    "zona": "Camporrobles",
+    "descripcion": "un vehículo averiado o parado en CV-474 km 13.543 (Camporrobles)",
+    "inicio": "2026-11-08T12:08:04+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "trafico",
+    "subtipo": "vehiculo_parado",
+    "zona": "la Font d'en Carròs",
+    "descripcion": "un vehículo averiado o parado en CV-683 km 1.828 (la Font d'en Carròs)",
+    "inicio": "2026-11-08T12:08:05+01:00",
+    "fin": null,
+    "detalles": {}
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Av. Poeta Federico Garcia Lorca",
+    "descripcion": "un corte de calle (acera,zona estacionamiento y 100% calzada) en Av. Poeta Federico Garcia Lorca 65",
+    "inicio": "2025-10-20T00:00:00+02:00",
+    "fin": "2028-01-01T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera,zona estacionamiento y 100% calzada",
+      "motivo": "Ute Canal De Acceso",
+      "duracion_dias": 804
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "corte_calle",
+    "subtipo": "incidencias",
+    "zona": "Lluís Peixó",
+    "descripcion": "un corte de calle (dos carriles en rotonda) en C/ Lluís Peixó 50",
+    "inicio": "2026-01-01T00:00:00+01:00",
+    "fin": "2026-12-31T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "dos carriles en rotonda",
+      "motivo": "Ferrocarrils Generalitat Valenciana",
+      "duracion_dias": 365
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Ctra. Malilla",
+    "descripcion": "un corte de calle (100% calzada) en Ctra. Malilla 119",
+    "inicio": "2026-04-07T00:00:00+02:00",
+    "fin": "2026-12-09T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Sociedad Anónima Municipal Actuaciones Urbanas De València",
+      "duracion_dias": 247
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Lladró I Mallí",
+    "descripcion": "un corte de calle (100% calzada) en C/ Lladró I Mallí 4",
+    "inicio": "2026-03-23T00:00:00+01:00",
+    "fin": "2026-12-31T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Serv. Obras De Infraestructuras",
+      "duracion_dias": 284
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Astúries",
+    "descripcion": "un corte de calle (1 carril) en C/ Astúries 26",
+    "inicio": "2026-05-11T00:00:00+02:00",
+    "fin": "2027-05-10T23:59:00+02:00",
+    "detalles": {
+      "afectacion": "1 carril",
+      "motivo": "S.C.T. Seccion Ejecución Obras",
+      "duracion_dias": 365
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Colón",
+    "descripcion": "un corte de calle (acera y carril bus) en C/ Colón 1",
+    "inicio": "2026-06-15T00:00:00+02:00",
+    "fin": "2026-11-30T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera y carril bus",
+      "motivo": "Serv. Obras De Infraestructuras",
+      "duracion_dias": 169
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Colón",
+    "descripcion": "un corte de calle (acera , carril bici, zona est. y 1 carril) en C/ Colón 2",
+    "inicio": "2026-06-15T00:00:00+02:00",
+    "fin": "2026-11-30T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera , carril bici, zona est. y 1 carril",
+      "motivo": "Serv. Obras De Infraestructuras",
+      "duracion_dias": 169
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "corte_calle",
+    "subtipo": "incidencias",
+    "zona": "Baladre",
+    "descripcion": "un corte de calle (zona estacionamiento y 1 carril) en C/ Baladre 0",
+    "inicio": "2026-06-15T00:00:00+02:00",
+    "fin": "2026-11-30T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "zona estacionamiento y 1 carril",
+      "motivo": "Serv. Obras De Infraestructuras",
+      "duracion_dias": 169
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Bernardo España Edo - Españeta",
+    "descripcion": "un corte de calle (acera estacionamiento 3 carriles) en C/ Bernardo España Edo - Españeta 1",
+    "inicio": "2026-07-20T00:00:00+02:00",
+    "fin": "2026-12-31T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera estacionamiento 3 carriles",
+      "motivo": "Espacios Deportivos Urbanos, S.L.",
+      "duracion_dias": 165
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Arquebisbe Aliaga",
+    "descripcion": "un corte de calle (100% calzada) en C/ Arquebisbe Aliaga 0",
+    "inicio": "2026-08-31T00:00:00+02:00",
+    "fin": "2026-11-30T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Serv. Ciclo Integral Del Agua",
+      "duracion_dias": 92
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Francisco Monleón",
+    "descripcion": "un corte de calle (100% calzada) en C/ Francisco Monleón 0",
+    "inicio": "2026-08-31T00:00:00+02:00",
+    "fin": "2026-11-30T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Serv. Ciclo Integral Del Agua",
+      "duracion_dias": 92
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Av. Fernando Abril Martorell",
+    "descripcion": "un corte de calle (100% calzada-carril bici-acera) en Av. Fernando Abril Martorell 0",
+    "inicio": "2025-03-31T00:00:00+02:00",
+    "fin": "2026-11-30T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada-carril bici-acera",
+      "motivo": "Ute Canal De Acceso",
+      "duracion_dias": 610
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Mariano Ribera",
+    "descripcion": "un corte de calle (100% calzada(nº4-6-8)) en C/ Mariano Ribera 8",
+    "inicio": "2026-09-14T00:00:00+02:00",
+    "fin": "2026-12-15T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada(nº4-6-8)",
+      "motivo": "Qlty Homes Urban Life, S.L.Pa",
+      "duracion_dias": 93
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Mariano Ribera",
+    "descripcion": "un corte de calle (100% calzada(nº4-6)) en C/ Mariano Ribera 4",
+    "inicio": "2026-09-14T00:00:00+02:00",
+    "fin": "2026-12-15T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada(nº4-6)",
+      "motivo": "Qlty Homes Urban Life, S.L.Pa",
+      "duracion_dias": 93
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Fusta",
+    "descripcion": "un corte de calle (acera, carril bici y zona estacionamiento) en C/ Fusta 50",
+    "inicio": "2026-09-15T00:00:00+02:00",
+    "fin": "2026-11-27T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera, carril bici y zona estacionamiento",
+      "motivo": "Serv. Ciclo Integral Del Agua",
+      "duracion_dias": 74
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Pl. Sant Agustí",
+    "descripcion": "un corte de calle (100% calzada y zona peatonal) en Pl. Sant Agustí 0",
+    "inicio": "2026-09-22T00:00:00+02:00",
+    "fin": "2027-01-05T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada y zona peatonal",
+      "motivo": "Serv. Obras De Infraestructuras",
+      "duracion_dias": 106
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Sant Pau",
+    "descripcion": "un corte de calle (100% calzada) en C/ Sant Pau 1",
+    "inicio": "2026-09-22T00:00:00+02:00",
+    "fin": "2027-01-05T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Serv. Obras De Infraestructuras",
+      "duracion_dias": 106
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Rei D'Artieda",
+    "descripcion": "un corte de calle (100% calzada) en C/ Rei D'Artieda 0",
+    "inicio": "2026-08-31T00:00:00+02:00",
+    "fin": "2026-11-30T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Serv. Ciclo Integral Del Agua",
+      "duracion_dias": 92
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Caudete",
+    "descripcion": "un corte de calle (100% calzada) en C/ Caudete 0",
+    "inicio": "2026-08-31T00:00:00+02:00",
+    "fin": "2026-11-30T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Serv. Ciclo Integral Del Agua",
+      "duracion_dias": 92
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Caudete",
+    "descripcion": "un corte de calle (100% calzada (incluso viales transversal.)) en C/ Caudete 0",
+    "inicio": "2026-08-31T00:00:00+02:00",
+    "fin": "2026-11-30T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada (incluso viales transversal.)",
+      "motivo": "Serv. Ciclo Integral Del Agua",
+      "duracion_dias": 92
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Grup. Marqués De Vallterra",
+    "descripcion": "un corte de calle (100% calzada y zonas de estacionamiento) en Grup. Marqués De Vallterra 0",
+    "inicio": "2026-10-13T00:00:00+02:00",
+    "fin": "2026-12-18T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada y zonas de estacionamiento",
+      "motivo": "Serv. Ciclo Integral Del Agua",
+      "duracion_dias": 67
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Av. Gavines",
+    "descripcion": "un corte de calle (100% calzada, acera y zona est.) en Av. Gavines 17",
+    "inicio": "2026-10-13T00:00:00+02:00",
+    "fin": "2026-12-18T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada, acera y zona est.",
+      "motivo": "Serv. Ciclo Integral Del Agua",
+      "duracion_dias": 67
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "corte_calle",
+    "subtipo": "incidencias",
+    "zona": "P.I. Perez Galdos",
+    "descripcion": "un corte de calle (100% calzada) en P.I. Perez Galdos 0",
+    "inicio": "2026-10-05T21:00:00+02:00",
+    "fin": "2026-11-27T06:30:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Serv. Obras De Infraestructuras",
+      "duracion_dias": 52
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Ctra. Alba",
+    "descripcion": "un corte de calle (acera y 1/2 calzada) en Ctra. Alba 0",
+    "inicio": "2026-10-26T00:00:00+01:00",
+    "fin": "2026-11-20T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera y 1/2 calzada",
+      "motivo": "Emimet",
+      "duracion_dias": 26
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Cami. Punta A La Mar",
+    "descripcion": "un corte de calle (zona estacionamiento   1 carril) en Cami. Punta A La Mar 0",
+    "inicio": "2026-10-15T00:00:00+02:00",
+    "fin": "2026-12-10T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "zona estacionamiento   1 carril",
+      "motivo": "I-De Redes Eléctricas Inteligentes Sau",
+      "duracion_dias": 57
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Cami. Punta A La Mar",
+    "descripcion": "un corte de calle (acera   1 carril) en Cami. Punta A La Mar 0",
+    "inicio": "2026-10-15T00:00:00+02:00",
+    "fin": "2026-12-10T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera   1 carril",
+      "motivo": "I-De Redes Eléctricas Inteligentes Sau",
+      "duracion_dias": 57
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Av. Pérez Galdós",
+    "descripcion": "un corte de calle (acera, zona estacionamiento y calzada) en Av. Pérez Galdós 0",
+    "inicio": "2025-06-25T00:00:00+02:00",
+    "fin": "2026-12-16T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera, zona estacionamiento y calzada",
+      "motivo": "Serv. Obras De Infraestructuras",
+      "duracion_dias": 540
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Av. Giorgeta",
+    "descripcion": "un corte de calle (acera, zona estacionamiento y calzada) en Av. Giorgeta 0",
+    "inicio": "2025-06-25T00:00:00+02:00",
+    "fin": "2026-12-16T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera, zona estacionamiento y calzada",
+      "motivo": "Serv. Obras De Infraestructuras",
+      "duracion_dias": 540
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Osca",
+    "descripcion": "un corte de calle (100% calzada) en C/ Osca 0",
+    "inicio": "2026-10-16T00:00:00+02:00",
+    "fin": "2027-01-05T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Serv. Obras De Infraestructuras",
+      "duracion_dias": 82
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Rubén Vela",
+    "descripcion": "un corte de calle (acera carril bici estacionamiento) en C/ Rubén Vela 6",
+    "inicio": "2026-10-26T00:00:00+01:00",
+    "fin": "2026-11-09T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera carril bici estacionamiento",
+      "motivo": "I-De Redes Eléctricas Inteligentes Sau",
+      "duracion_dias": 15
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Rubén Vela",
+    "descripcion": "un corte de calle (carril bici estacionamiento) en C/ Rubén Vela 4",
+    "inicio": "2026-10-26T00:00:00+01:00",
+    "fin": "2026-11-09T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "carril bici estacionamiento",
+      "motivo": "I-De Redes Eléctricas Inteligentes Sau",
+      "duracion_dias": 15
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Rubén Vela",
+    "descripcion": "un corte de calle (acera carril bici estacionamiento) en C/ Rubén Vela 6",
+    "inicio": "2026-09-30T00:00:00+02:00",
+    "fin": "2026-11-30T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera carril bici estacionamiento",
+      "motivo": "I-De Redes Eléctricas Inteligentes Sau",
+      "duracion_dias": 62
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Salas Quiroga",
+    "descripcion": "un corte de calle (mitades alternativas calzada) en C/ Salas Quiroga 1",
+    "inicio": "2026-10-29T00:00:00+01:00",
+    "fin": "2026-11-12T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "mitades alternativas calzada",
+      "motivo": "Nedgia",
+      "duracion_dias": 15
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Pare Rico",
+    "descripcion": "un corte de calle (1/2 calzada) en C/ Pare Rico 5",
+    "inicio": "2026-10-28T00:00:00+01:00",
+    "fin": "2026-11-17T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "1/2 calzada",
+      "motivo": "Aedas Homes Opco Slu",
+      "duracion_dias": 21
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Mestre Miguel Galan",
+    "descripcion": "un corte de calle (acera y zona estacionamiento  carril bici) en Mestre Miguel Galan 8",
+    "inicio": "2026-10-26T00:00:00+01:00",
+    "fin": "2026-11-15T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera y zona estacionamiento  carril bici",
+      "motivo": "Nedgia Cegas S.A.",
+      "duracion_dias": 21
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Cerdà De Tallada",
+    "descripcion": "un corte de calle (1/2 calzada y acera (pares)) en C/ Cerdà De Tallada 0",
+    "inicio": "2026-10-26T00:00:00+01:00",
+    "fin": "2026-11-13T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "1/2 calzada y acera (pares)",
+      "motivo": "Serv. Obras De Infraestructuras",
+      "duracion_dias": 19
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Comte De Melito",
+    "descripcion": "un corte de calle (100% calzada) en C/ Comte De Melito 2",
+    "inicio": "2026-10-29T00:00:00+01:00",
+    "fin": "2026-12-04T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Serv. Ciclo Integral Del Agua",
+      "duracion_dias": 37
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Yáñez De La Almedina",
+    "descripcion": "un corte de calle (100% calzada y zona estacionamiento) en C/ Yáñez De La Almedina 0",
+    "inicio": "2026-10-29T00:00:00+01:00",
+    "fin": "2026-12-04T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada y zona estacionamiento",
+      "motivo": "Serv. Ciclo Integral Del Agua",
+      "duracion_dias": 37
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Yáñez De La Almedina",
+    "descripcion": "un corte de calle (100% calzada) en C/ Yáñez De La Almedina 0",
+    "inicio": "2026-10-29T00:00:00+01:00",
+    "fin": "2026-12-04T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Serv. Ciclo Integral Del Agua",
+      "duracion_dias": 37
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Av. Corts Valencianes",
+    "descripcion": "un corte de calle (acera mas carril de circulación) en Av. Corts Valencianes 17",
+    "inicio": "2026-11-02T00:00:00+01:00",
+    "fin": "2026-12-23T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera mas carril de circulación",
+      "motivo": "Valencia C.F. S.A.D.",
+      "duracion_dias": 52
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Cami. Punta A La Mar",
+    "descripcion": "un corte de calle (acera   1,5m calzada para desvio peatones) en Cami. Punta A La Mar 39",
+    "inicio": "2026-11-04T00:00:00+01:00",
+    "fin": "2026-11-17T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera   1,5m calzada para desvio peatones",
+      "motivo": "Emivasa",
+      "duracion_dias": 14
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Av. Corts Valencianes",
+    "descripcion": "un corte de calle (acera mas carril de circulación) en Av. Corts Valencianes 17",
+    "inicio": "2026-11-02T00:00:00+01:00",
+    "fin": "2027-01-09T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera mas carril de circulación",
+      "motivo": "Valencia C.F. S.A.D.",
+      "duracion_dias": 69
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Amics Del Corpus",
+    "descripcion": "un corte de calle (acera carril bici est. 1/2 carril) en C/ Amics Del Corpus 2",
+    "inicio": "2026-11-02T00:00:00+01:00",
+    "fin": "2027-02-26T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera carril bici est. 1/2 carril",
+      "motivo": "Valencia C.F. S.A.D.",
+      "duracion_dias": 117
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Amics Del Corpus",
+    "descripcion": "un corte de calle (acera carril bici est. 1/2 carril) en C/ Amics Del Corpus 2",
+    "inicio": "2026-11-02T00:00:00+01:00",
+    "fin": "2027-01-09T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera carril bici est. 1/2 carril",
+      "motivo": "Valencia C.F. S.A.D.",
+      "duracion_dias": 69
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Lluís Peixó",
+    "descripcion": "un corte de calle (1 carril por sentido-zona estacionamiento) en C/ Lluís Peixó 50",
+    "inicio": "2026-10-29T00:00:00+01:00",
+    "fin": "2026-12-04T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "1 carril por sentido-zona estacionamiento",
+      "motivo": "Serv. Ciclo Integral Del Agua",
+      "duracion_dias": 37
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Jesús",
+    "descripcion": "un corte de calle (acera mas carril emt) en C/ Jesús 32",
+    "inicio": "2026-11-09T00:00:00+01:00",
+    "fin": "2026-11-27T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera mas carril emt",
+      "motivo": "Euro-Activ Promociones",
+      "duracion_dias": 19
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Ernest Anastasio",
+    "descripcion": "un corte de calle (100% calzada) en C/ Ernest Anastasio 32",
+    "inicio": "2026-11-02T00:00:00+01:00",
+    "fin": "2026-12-11T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Serv. Ciclo Integral Del Agua",
+      "duracion_dias": 40
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Mondúber",
+    "descripcion": "un corte de calle (1 carril) en C/ Mondúber 15",
+    "inicio": "2026-11-02T00:00:00+01:00",
+    "fin": "2026-11-10T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "1 carril",
+      "motivo": "Taquenuma Sl",
+      "duracion_dias": 9
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Sant Miquel",
+    "descripcion": "un corte de calle (100% calzada) en C/ Sant Miquel 24",
+    "inicio": "2026-10-31T00:00:00+01:00",
+    "fin": "2026-11-30T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Sección De Arquitectura Y Supervisión De Proyectos Ii",
+      "duracion_dias": 31
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Bany",
+    "descripcion": "un corte de calle (100% calzada) en C/ Bany 42",
+    "inicio": "2026-11-04T00:00:00+01:00",
+    "fin": "2026-11-11T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Constructora San Jose Sa",
+      "duracion_dias": 8
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Buenos Aires",
+    "descripcion": "un corte de calle (1/2 calzada en mitades alternativas) en C/ Buenos Aires 27",
+    "inicio": "2026-11-09T00:00:00+01:00",
+    "fin": "2026-11-12T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "1/2 calzada en mitades alternativas",
+      "motivo": "I-De Redes Eléctricas Inteligentes Sau",
+      "duracion_dias": 4
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "José Esteve",
+    "descripcion": "un corte de calle (1 carril) en José Esteve 35",
+    "inicio": "2026-11-05T00:00:00+01:00",
+    "fin": "2026-11-11T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "1 carril",
+      "motivo": "Nedgia Cegas Sa",
+      "duracion_dias": 7
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Joan Baptista Muñoz",
+    "descripcion": "un corte de calle (1/2 calzada alternativa para el cruzamiento) en C/ Joan Baptista Muñoz 2",
+    "inicio": "2026-11-09T00:00:00+01:00",
+    "fin": "2026-11-13T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "1/2 calzada alternativa para el cruzamiento",
+      "motivo": "Anteo Capital, S.L.U.",
+      "duracion_dias": 5
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Progrés",
+    "descripcion": "un corte de calle (acera   100%calzada) en C/ Progrés 217",
+    "inicio": "2026-11-09T00:00:00+01:00",
+    "fin": "2026-11-11T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera   100%calzada",
+      "motivo": "Alexandra Reinwarth",
+      "duracion_dias": 3
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Av. Equador",
+    "descripcion": "un corte de calle (1/2 calzada por sentido) en Av. Equador 73",
+    "inicio": "2026-11-03T00:00:00+01:00",
+    "fin": "2026-11-30T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "1/2 calzada por sentido",
+      "motivo": "Luis Ortola Piera",
+      "duracion_dias": 28
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Jorge Juan",
+    "descripcion": "un corte de calle (100% calzada) en C/ Jorge Juan 20",
+    "inicio": "2026-11-07T00:00:00+01:00",
+    "fin": "2026-11-09T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Aumsa S.A.",
+      "duracion_dias": 3
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Músico Cabanilles",
+    "descripcion": "un corte de calle (1 carril) en Músico Cabanilles 43",
+    "inicio": "2026-11-06T00:00:00+01:00",
+    "fin": "2026-11-11T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "1 carril",
+      "motivo": "Emivasa",
+      "duracion_dias": 6
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Rubén Vela",
+    "descripcion": "un corte de calle (1/2 calzada) en C/ Rubén Vela 23",
+    "inicio": "2026-11-09T00:00:00+01:00",
+    "fin": "2026-11-12T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "1/2 calzada",
+      "motivo": "I-De Redes Eléctricas Inteligentes Sau",
+      "duracion_dias": 4
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Rubén Vela",
+    "descripcion": "un corte de calle (acera carril bici estacionamiento) en C/ Rubén Vela 23",
+    "inicio": "2026-11-09T00:00:00+01:00",
+    "fin": "2026-11-12T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera carril bici estacionamiento",
+      "motivo": "I-De Redes Eléctricas Inteligentes Sau",
+      "duracion_dias": 4
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Sant Pau",
+    "descripcion": "un corte de calle (acera mas 1 carril) en C/ Sant Pau 2",
+    "inicio": "2026-11-05T00:00:00+01:00",
+    "fin": "2026-12-11T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera mas 1 carril",
+      "motivo": "I-De Redes Eléctricas Inteligentes Sau",
+      "duracion_dias": 37
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Balmes",
+    "descripcion": "un corte de calle (1 carril) en C/ Balmes 5",
+    "inicio": "2026-11-09T00:00:00+01:00",
+    "fin": "2026-11-11T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "1 carril",
+      "motivo": "Emivasa",
+      "duracion_dias": 3
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Illes Canàries",
+    "descripcion": "un corte de calle (acera  1 carril) en C/ Illes Canàries 211",
+    "inicio": "2026-11-06T00:00:00+01:00",
+    "fin": "2026-11-20T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera  1 carril",
+      "motivo": "Lompis Tour Sl",
+      "duracion_dias": 15
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Balmes",
+    "descripcion": "un corte de calle (100% calzada) en C/ Balmes 5",
+    "inicio": "2026-11-09T00:00:00+01:00",
+    "fin": "2026-11-11T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "100% calzada",
+      "motivo": "Emivasa",
+      "duracion_dias": 3
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Colón",
+    "descripcion": "un corte de calle (1/2 calzada) en C/ Colón 1",
+    "inicio": "2026-11-08T00:00:00+01:00",
+    "fin": "2026-11-09T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "1/2 calzada",
+      "motivo": "Serv. Coord.Obras Y Mant. De Infraestructuras",
+      "duracion_dias": 2
+    }
+  },
+  {
+    "fuente": "eventos",
+    "tipo": "obras",
+    "subtipo": "obras",
+    "zona": "Comte De Lumiares",
+    "descripcion": "un corte de calle (acera ,estacionamiento  1carril alternativ) en C/ Comte De Lumiares 14",
+    "inicio": "2026-11-05T00:00:00+01:00",
+    "fin": "2026-11-09T23:59:00+01:00",
+    "detalles": {
+      "afectacion": "acera ,estacionamiento  1carril alternativ",
+      "motivo": "I-De Redes Eléctricas Inteligentes Sau",
+      "duracion_dias": 5
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Blasco Ibañez 166 - Pintor José Mongrell",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Blasco Ibañez 166 - Pintor José Mongrell",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 20,
+      "total": 21
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Archiduque Carlos - José María Mortes Lerma",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Archiduque Carlos - José María Mortes Lerma",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 15,
+      "total": 15
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_huecos",
+    "zona": "Campillo de Altobuey (Polideportivo)",
+    "descripcion": "no había hueco para dejar la bici en la estación de Valenbisi de Campillo de Altobuey (Polideportivo)",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 15,
+      "huecos_libres": 0,
+      "total": 15
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_huecos",
+    "zona": "Av. Puerto - Plaza Tribunal de les Aigües",
+    "descripcion": "no había hueco para dejar la bici en la estación de Valenbisi de Av. Puerto - Plaza Tribunal de les Aigües",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 19,
+      "huecos_libres": 0,
+      "total": 20
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Periodista Gil Sumbiela - Poeta Serrano Clavero",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Periodista Gil Sumbiela - Poeta Serrano Clavero",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 15,
+      "total": 15
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_huecos",
+    "zona": "Moraira - Alta del Mar",
+    "descripcion": "no había hueco para dejar la bici en la estación de Valenbisi de Moraira - Alta del Mar",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 11,
+      "huecos_libres": 0,
+      "total": 15
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Alcañiz - Cambrils",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Alcañiz - Cambrils",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 15,
+      "total": 15
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Campamento, 81",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Campamento, 81",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 15,
+      "total": 15
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Economista Gay - Constitución",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Economista Gay - Constitución",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 20,
+      "total": 20
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "San Pancracio - Periodista Llorente",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de San Pancracio - Periodista Llorente",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 20,
+      "total": 20
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Albacete - Maluquer",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Albacete - Maluquer",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 17,
+      "total": 18
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Manuel Broseta i Pont - Naranjos",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Manuel Broseta i Pont - Naranjos",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 40,
+      "total": 40
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Jorge Comin (Metge) - Terrateig",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Jorge Comin (Metge) - Terrateig",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 20,
+      "total": 20
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Camp del Turia - Corts Valencianes",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Camp del Turia - Corts Valencianes",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 20,
+      "total": 20
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Plaza Badajoz",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Plaza Badajoz",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 15,
+      "total": 15
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "NA JORDANA",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de NA JORDANA",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 24,
+      "total": 25
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Alberique, 18 (Abastos)",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Alberique, 18 (Abastos)",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 23,
+      "total": 23
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Juan Llorens - Quart",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Juan Llorens - Quart",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 15,
+      "total": 15
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Fernando el Católico - Erudito Orellana",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Fernando el Católico - Erudito Orellana",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 19,
+      "total": 19
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Angel Guimerá - Juan Llorens",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Angel Guimerá - Juan Llorens",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 15,
+      "total": 15
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_huecos",
+    "zona": "Antonio Ferrandis - General Urrutia",
+    "descripcion": "no había hueco para dejar la bici en la estación de Valenbisi de Antonio Ferrandis - General Urrutia",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 19,
+      "huecos_libres": 0,
+      "total": 20
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Blasco Ibañez - Yecla",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Blasco Ibañez - Yecla",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 20,
+      "total": 21
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Pío XII - Monestir de Poblet",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Pío XII - Monestir de Poblet",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 19,
+      "total": 20
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_huecos",
+    "zona": "Cra. Malilla - Bulevar Sur",
+    "descripcion": "no había hueco para dejar la bici en la estación de Valenbisi de Cra. Malilla - Bulevar Sur",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 15,
+      "huecos_libres": 0,
+      "total": 15
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Jerónimo Muñoz - Gaspar Aguilar",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Jerónimo Muñoz - Gaspar Aguilar",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 12,
+      "total": 15
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Corts Valencianes - General Avilés",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Corts Valencianes - General Avilés",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 20,
+      "total": 20
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Giorgeta, 64",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Giorgeta, 64",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 15,
+      "total": 15
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_huecos",
+    "zona": "Plaza de la Reina - Mar",
+    "descripcion": "no había hueco para dejar la bici en la estación de Valenbisi de Plaza de la Reina - Mar",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 9,
+      "huecos_libres": 0,
+      "total": 9
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Tres Cruces - Segunda República Española",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Tres Cruces - Segunda República Española",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 15,
+      "total": 15
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "José Meliá Castelló - Campos Crespo",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de José Meliá Castelló - Campos Crespo",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 14,
+      "total": 15
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Tomas de Villarroya - San Vicente",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Tomas de Villarroya - San Vicente",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 18,
+      "total": 18
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Plaza Salvador Soria, 8",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Plaza Salvador Soria, 8",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 19,
+      "total": 20
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_huecos",
+    "zona": "Plaza de Europa",
+    "descripcion": "no había hueco para dejar la bici en la estación de Valenbisi de Plaza de Europa",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 20,
+      "huecos_libres": 0,
+      "total": 20
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_huecos",
+    "zona": "Armada Española - Mariano Cuber",
+    "descripcion": "no había hueco para dejar la bici en la estación de Valenbisi de Armada Española - Mariano Cuber",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 17,
+      "huecos_libres": 0,
+      "total": 19
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Pintor Stolz - Nueve de Octubre",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Pintor Stolz - Nueve de Octubre",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 25,
+      "total": 25
+    }
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "bici",
+    "subtipo": "sin_bicis",
+    "zona": "Levante U.D. - Ecuador",
+    "descripcion": "no quedaba ninguna bici en la estación de Valenbisi de Levante U.D. - Ecuador",
+    "inicio": "2026-11-08T11:55:54+01:00",
+    "fin": null,
+    "detalles": {
+      "bicis_libres": 0,
+      "huecos_libres": 15,
+      "total": 15
+    }
+  }
+]
