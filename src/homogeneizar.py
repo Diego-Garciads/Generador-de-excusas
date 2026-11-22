@@ -21,6 +21,7 @@ Para añadir una fuente nueva: escribe una función desde_<fuente>(registros) qu
 devuelva una lista de registros con la estructura de arriba, y añádela a ADAPTADORES.
 """
 import json
+import unicodedata
 from datetime import datetime, timedelta
 from pathlib import Path
 from collections import Counter
@@ -98,9 +99,43 @@ TIPOS_DGT = {
 }
 
 
+# Municipios que consideramos "Valencia y área metropolitana" (comarcas de l'Horta).
+# Escritos en minúsculas y sin tildes; si un municipio tiene dos nombres, van los dos.
+AREA_METROPOLITANA = {
+    "valencia",
+    # l'Horta Nord
+    "albalat dels sorells", "alboraia", "alboraya", "albuixech", "alfara del patriarca",
+    "almassera", "bonrepos i mirambell", "burjassot", "emperador", "foios", "godella",
+    "massalfassar", "massamagrell", "meliana", "moncada", "museros", "paterna",
+    "la pobla de farnals", "pucol", "el puig de santa maria", "rafelbunyol", "rocafort",
+    "tavernes blanques", "vinalesa",
+    # l'Horta Oest
+    "alaquas", "aldaia", "manises", "mislata", "paiporta", "picanya", "quart de poblet",
+    "torrent", "xirivella", "chirivella",
+    # l'Horta Sud
+    "albal", "alcasser", "alfafar", "beniparrell", "catarroja", "llocnou de la corona",
+    "massanassa", "picassent", "sedavi", "silla",
+}
+
+
+def sin_tildes(texto):
+    """'València' -> 'valencia', para comparar nombres sin problemas de acentos."""
+    n = unicodedata.normalize("NFD", texto)
+    return "".join(c for c in n if unicodedata.category(c) != "Mn").lower().strip()
+
+
+def en_area_metropolitana(zona):
+    """True si el municipio está en la lista. Prueba cada nombre de 'Alboraia/Alboraya'."""
+    if not zona:
+        return False
+    return any(sin_tildes(nombre) in AREA_METROPOLITANA for nombre in zona.split("/"))
+
+
 def desde_dgt(registros):
     salida = []
     for r in registros:
+        if not en_area_metropolitana(r.get("zona")):
+            continue  # el proyecto es solo de Valencia y su área metropolitana
         salida.append(registro(
             fuente="dgt",
             tipo=TIPOS_DGT.get(r.get("tipo"), "trafico"),
