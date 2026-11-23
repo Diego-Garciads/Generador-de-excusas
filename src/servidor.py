@@ -1,11 +1,19 @@
 import json
+import random
+import unicodedata
 from socket import *
 import generador
 import homogeneizar
 import main as pipeline
+import rutas_maps
 
-HOST = ""          # Escucha en todas las tarjetas de red de tu ordenador
-PORT = 12000       # Puerto de conexión
+HOST = ""
+PORT = 12000
+
+
+def normalizar_texto(t):
+    n = unicodedata.normalize("NFD", (t or "").lower())
+    return "".join(c for c in n if unicodedata.category(c) != "Mn")
 
 
 def cargar_datos_seguro():
@@ -20,6 +28,60 @@ def cargar_datos_seguro():
         datos = generador.cargar_datos()
         print(f"[OK] Datos cargados en memoria ({len(datos)} registros).")
         return datos
+
+
+def generar_excusa_por_modo(datos_memoria, modo, info_ruta):
+    """Cruza las vías/líneas de un modo (coche, metro, caminando) con datos reales."""
+    vias = info_ruta.get("vias", [])
+    vias_norm = [normalizar_texto(v) for v in vias if len(v) >= 2]
+
+    # Qué tipos de incidencia del proyecto encajan con cada medio de transporte
+    tipos_por_modo = {
+        "coche": {"trafico", "obras", "corte_calle"},
+        "metro": {"meteo", "corte_calle", "obras"},
+        "caminando": {"obras", "corte_calle", "meteo", "bici"},
+    }
+    tipos_permitidos = tipos_por_modo.get(modo, {"trafico", "obras", "corte_calle", "meteo", "bici"})
+
+    coincidencias = []
+    for reg in datos_memoria:
+        if reg.get("tipo") not in tipos_permitidos:
+            continue
+        desc_norm = normalizar_texto(reg.get("descripcion"))
+        zona_norm = normalizar_texto(reg.get("zona"))
+
+        for via in vias_norm:
+            nucleo = via.replace("calle ", "").replace("avenida ", "").replace("av. ", "").strip()
+            if len(nucleo) >= 3 and (nucleo in desc_norm or nucleo in zona_norm):
+                coincidencias.append(reg)
+                break
+
+    if coincidencias:
+        elegido = random.choice(coincidencias)
+        desc = elegido["descripcion"]
+        if elegido["fuente"] in ("dgt", "eventos"):
+            desc = "había " + desc
+        return {
+            "excusa": f"{random.choice(generador.INICIOS)}{desc} justo en mi trayecto.",
+            "coincidencia_exacta": True,
+            "fuente": generador.NOMBRE_FUENTE.get(elegido["fuente"], elegido["fuente"]),
+            "zona": elegido.get("zona") or "Valencia",
+        }
+
+    # Si no hay incidencia exacta en esas calles, elegimos una coherente con ese transporte
+    candidatos = [r for r in datos_memoria if r.get("tipo") in tipos_permitidos] or datos_memoria
+    elegido = random.choice(candidatos)
+    desc = elegido["descripcion"]
+    if elegido["fuente"] in ("dgt", "eventos"):
+        desc = "había " + desc
+
+    extra_ruta = f" al pasar por {', '.join(vias[:2])}" if vias else ""
+    return {
+        "excusa": f"{random.choice(generador.INICIOS)}{desc}{extra_ruta}.",
+        "coincidencia_exacta": False,
+        "fuente": generador.NOMBRE_FUENTE.get(elegido["fuente"], elegido["fuente"]),
+        "zona": elegido.get("zona") or "Valencia",
+    }
 
 
 def iniciar_servidor():
@@ -54,9 +116,7 @@ def iniciar_servidor():
                         "mensaje": f"No hay datos disponibles para el tipo '{tipo}'."
                     }
                 else:
-                    fuente_legible = generador.NOMBRE_FUENTE.get(
-                        registro["fuente"], registro["fuente"]
-                    )
+                    fuente_legible = generador.NOMBRE_FUENTE.get(registro["fuente"], registro["fuente"])
                     respuesta = {
                         "estado": "ok",
                         "excusa": excusa,
@@ -65,6 +125,32 @@ def iniciar_servidor():
                         "tipo": registro.get("tipo")
                     }
                 print(f"[PETICIÓN] {clientAddress[0]} pidió tipo='{tipo}' -> Enviada excusa.")
+
+            elif accion == "excusa_ruta":
+                origen = peticion.get("origen", "").strip()
+                destino = peticion.get("destino", "").strip()
+                print(f"[RUTA MULTIMODAL] {clientAddress[0]} consulta ({origen}) -> ({destino})...")
+
+                rutas = rutas_maps.obtener_rutas_multimodal(origen, destino, headless=True)
+                detalles_modos = {}
+
+                for modo in ("coche", "metro", "caminando"):
+                    info = rutas.get(modo, {"duracion": "No disponible", "vias": [], "pasos": []})
+                    excusa_info = generar_excusa_por_modo(datos_memoria, modo, info)
+                    detalles_modos[modo] = {
+                        "duracion": info["duracion"],
+                        "vias": info["vias"],
+                        "excusa": excusa_info["excusa"],
+                        "coincidencia_exacta": excusa_info["coincidencia_exacta"],
+                        "fuente": excusa_info["fuente"],
+                        "zona": excusa_info["zona"],
+                    }
+
+                respuesta = {
+                    "estado": "ok",
+                    "modos": detalles_modos,
+                }
+                print(f"[RUTA MULTIMODAL] Enviados itinerarios de coche, metro y caminando a {clientAddress[0]}.")
 
             elif accion == "actualizar_datos":
                 print(f"[ACTUALIZACIÓN] {clientAddress[0]} solicitó recargar datos de APIs...")
