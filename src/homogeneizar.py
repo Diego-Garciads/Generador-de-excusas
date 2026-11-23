@@ -213,7 +213,7 @@ LLUVIA_MINIMA_MM = 0.5      # precipitación en la última hora (mm)
 RACHA_MINIMA_KMH = 50       # racha máxima de viento (km/h)
 
 
-def desde_aemet(registros):
+def desde_aemet(registros, max_retraso=timedelta(hours=12)):
     """Solo interesa el tiempo ACTUAL de cada estación, y solo si es malo.
 
     La AEMET da una observación por hora y estación. Nos quedamos con la última
@@ -227,6 +227,11 @@ def desde_aemet(registros):
             # Las fechas tienen todas el mismo formato, así que se comparan como texto
             if est not in ultima or r["fint"] > ultima[est]["fint"]:
                 ultima[est] = r
+
+    if ultima:
+        mas_reciente = max(datetime.fromisoformat(r["fint"]) for r in ultima.values())
+        ultima = {est: r for est, r in ultima.items()
+                  if mas_reciente - datetime.fromisoformat(r["fint"]) <= max_retraso}
 
     # 2. Excusa solo si el tiempo es malo
     salida = []
