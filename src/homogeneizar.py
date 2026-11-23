@@ -278,16 +278,28 @@ def quitar_duplicados(registros):
     return unicos
 
 
+def archivo_mas_reciente(fuente):
+    """El JSON más reciente de una fuente en data/.
+
+    Sirve tanto para 'dgt.json' como para archivos con la fecha en el nombre,
+    como los de AEMET ('aemet_obs_20261122T2230Z.json'). None si no hay ninguno.
+    """
+    candidatos = list(DATA.glob(f"{fuente}*.json"))
+    if not candidatos:
+        return None
+    return max(candidatos, key=lambda ruta: ruta.stat().st_mtime)  # el modificado más tarde
+
+
 def homogeneizar():
     todos = []
     for fuente, adaptador in ADAPTADORES.items():
-        ruta = DATA / f"{fuente}.json"
+        ruta = archivo_mas_reciente(fuente)
+        if ruta is None:
+            print(f"[aviso] No hay ningún {fuente}*.json en data/: se omite la fuente '{fuente}'")
+            continue
         try:
             with open(ruta, encoding="utf-8") as f:
                 crudos = json.load(f)
-        except FileNotFoundError:
-            print(f"[aviso] No existe {ruta.name}: se omite la fuente '{fuente}'")
-            continue
         except json.JSONDecodeError as e:
             print(f"[aviso] {ruta.name} no es un JSON válido ({e}): se omite")
             continue

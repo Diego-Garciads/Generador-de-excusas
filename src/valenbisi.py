@@ -7,10 +7,18 @@ Uso:
 URL = la URL del recurso JSON del dataset "ValenBisi Disponibilidad".
 """
 import json
+from pathlib import Path
 import sys
 from datetime import datetime, timezone
 
 import requests
+
+# Carpeta data/ del proyecto, calculada desde este archivo (así da igual desde dónde se ejecute)
+DATA = Path(__file__).resolve().parent.parent / "data"
+
+# URL del recurso JSON de "ValenBisi Disponibilidad". Pégala aquí para no tener que
+# pasarla cada vez. Si se pasa una URL al ejecutar, se usa esa en su lugar.
+URL = " https://geoportal.valencia.es/server/rest/services/OPENDATA/Trafico/MapServer/228/query?where=1=1&outFields=*&f=json"
 
 
 def descargar(url):
@@ -56,10 +64,11 @@ def parsear_fecha(texto):
 
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    if not args:
-        sys.exit("Falta la URL. Uso: python valenbisi.py URL [--keys]")
+    url = args[0] if args else URL
+    if not url:
+        sys.exit("Falta la URL: pégala en la constante URL o pásala al ejecutar.")
 
-    registros = descargar(args[0])
+    registros = descargar(url)
     if not registros:
         sys.exit("La URL no ha devuelto registros.")
 
@@ -78,9 +87,9 @@ def main():
             print(f"AVISO: el dato más reciente tiene {antig.days} días de antigüedad."
                   " Estos datos NO son en tiempo real.")
 
-    with open("valenbisi.json", "w", encoding="utf-8") as f:
+    with open(DATA / "valenbisi.json", "w", encoding="utf-8") as f:
         json.dump(salida, f, indent=2, ensure_ascii=False)
-    print(f"{len(salida)} estaciones guardadas en valenbisi.json")
+    print(f"{len(salida)} estaciones guardadas en data/valenbisi.json")
 
 
 if __name__ == "__main__":

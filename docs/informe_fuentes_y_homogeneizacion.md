@@ -75,8 +75,12 @@ Cada fuente entrega los datos con una estructura distinta (nombres de campos, fo
 Modelo utilizado: **Claude Opus 5.5** (Anthropic).
 
 - Explicación y revisión del código de los tres scripts de extracción, con propuestas de mejora.
+
 - Revisión del proyecto frente a la rúbrica y las prácticas de la asignatura.
+
 - Redacción de `src/homogeneizar.py` (estructura común, adaptadores por fuente y filtros), que después he revisado, ejecutado y subido al repositorio.
+
 - Borrador de esta sección del informe.
 
-[COMPLETAR: qué parte de los scripts de extracción hiciste tú y si usaste IA para ellos]
+- Apoyo en la programación de los scripts de extracción (dgt.py, eventos.py y valenbisi.py). La búsqueda y selección de las fuentes de datos y de sus APIs la realicé yo; el código generado con ayuda de la IA lo revisé y probé con los datos reales.
+

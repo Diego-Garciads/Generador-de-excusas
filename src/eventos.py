@@ -5,11 +5,15 @@ Uso:
     python eventos.py            # crea eventos.json
 """
 import json
+from pathlib import Path
 import time
 from collections import Counter
 from datetime import datetime, timezone
 
 import requests
+
+# Carpeta data/ del proyecto, calculada desde este archivo (así da igual desde dónde se ejecute)
+DATA = Path(__file__).resolve().parent.parent / "data"
 
 URL = (
     "https://geoportal.valencia.es/server/rest/services/OPENDATA/Trafico/"
@@ -125,9 +129,9 @@ def main():
         n = sum(1 for e in salida if e["duracion_dias"] is not None and e["duracion_dias"] <= limite)
         print(f"  de esos, {n} duran {limite} días o menos")
 
-    with open("eventos.json", "w", encoding="utf-8") as f:
+    with open(DATA / "eventos.json", "w", encoding="utf-8") as f:
         json.dump(salida, f, indent=2, ensure_ascii=False)
-    print(f"{len(salida)} ocupaciones guardadas en eventos.json")
+    print(f"{len(salida)} ocupaciones guardadas en data/eventos.json")
 
 
 if __name__ == "__main__":
