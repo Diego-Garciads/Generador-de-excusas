@@ -228,7 +228,7 @@ def desde_aemet(registros, max_retraso=timedelta(hours=12)):
             if est not in ultima or r["fint"] > ultima[est]["fint"]:
                 ultima[est] = r
 
-    if ultima:
+    if ultima:     # Filtro de antigüedad: Claude Opus 5.5 (bajo)
         mas_reciente = max(datetime.fromisoformat(r["fint"]) for r in ultima.values())
         ultima = {est: r for est, r in ultima.items()
                   if mas_reciente - datetime.fromisoformat(r["fint"]) <= max_retraso}
