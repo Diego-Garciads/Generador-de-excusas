@@ -278,16 +278,41 @@ def quitar_duplicados(registros):
     return unicos
 
 
+def archivo_mas_reciente(fuente):
+    """El JSON más reciente de una fuente en data/.
+
+    Sirve tanto para 'dgt.json' como para archivos con la fecha en el nombre,
+    como los de AEMET ('aemet_obs_20261122T2230Z.json'). None si no hay ninguno.
+    """
+    candidatos = list(DATA.glob(f"{fuente}*.json"))
+    if not candidatos:
+        return None
+    return max(candidatos, key=lambda ruta: ruta.stat().st_mtime)  # el modificado más tarde
+
+
+# Algo que dura más que esto ya no es una novedad: no sirve como excusa
+# ("había obras" no cuela si la calle lleva cortada dos años)
+DURACION_MAXIMA_DIAS = 60
+
+
+def duracion_razonable(r):
+    """True si el registro no tiene fechas de inicio y fin, o si dura poco."""
+    if not r["inicio"] or not r["fin"]:
+        return True
+    dias = (datetime.fromisoformat(r["fin"]) - datetime.fromisoformat(r["inicio"])).days
+    return dias <= DURACION_MAXIMA_DIAS
+
+
 def homogeneizar():
     todos = []
     for fuente, adaptador in ADAPTADORES.items():
-        ruta = DATA / f"{fuente}.json"
+        ruta = archivo_mas_reciente(fuente)
+        if ruta is None:
+            print(f"[aviso] No hay ningún {fuente}*.json en data/: se omite la fuente '{fuente}'")
+            continue
         try:
             with open(ruta, encoding="utf-8") as f:
                 crudos = json.load(f)
-        except FileNotFoundError:
-            print(f"[aviso] No existe {ruta.name}: se omite la fuente '{fuente}'")
-            continue
         except json.JSONDecodeError as e:
             print(f"[aviso] {ruta.name} no es un JSON válido ({e}): se omite")
             continue
@@ -295,6 +320,8 @@ def homogeneizar():
         nuevos = adaptador(crudos)
         # Sin descripción no hay excusa posible: fuera
         nuevos = [r for r in nuevos if r["descripcion"]]
+        # Fuera lo que dura demasiado
+        nuevos = [r for r in nuevos if duracion_razonable(r)]
         print(f"{fuente:>10}: {len(crudos):4} leídos -> {len(nuevos):4} útiles")
         todos.extend(nuevos)
 

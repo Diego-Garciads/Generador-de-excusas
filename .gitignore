@@ -1,0 +1,9 @@
+# Archivos que genera Python automáticamente
+__pycache__/
+*.pyc
+
+# Puntos de control de Jupyter
+.ipynb_checkpoints/
+
+# Claves y configuración local (nunca subir)
+.env

@@ -6,12 +6,16 @@ Uso:
     python dgt.py --provincia alicante   # otra provincia (sin tildes, da igual mayúsculas)
 """
 import json
+from pathlib import Path
 import sys
 import unicodedata
 import xml.etree.ElementTree as ET
 from collections import Counter
 
 import requests
+
+# Carpeta data/ del proyecto, calculada desde este archivo (así da igual desde dónde se ejecute)
+DATA = Path(__file__).resolve().parent.parent / "data"
 
 URL = "https://nap.dgt.es/datex2/v3/dgt/SituationPublication/datex2_v37.xml"
 XSI_TYPE = "{http://www.w3.org/2001/XMLSchema-instance}type"
@@ -168,9 +172,9 @@ def main():
 
     salida = [normalizar(d) for _, d in aqui]
     print("Por tipo:", dict(Counter(e["tipo"] for e in salida)))
-    with open("dgt.json", "w", encoding="utf-8") as f:
+    with open(DATA / "dgt.json", "w", encoding="utf-8") as f:
         json.dump(salida, f, indent=2, ensure_ascii=False)
-    print(f"{len(salida)} incidencias guardadas en dgt.json")
+    print(f"{len(salida)} incidencias guardadas en data/dgt.json")
 
 
 if __name__ == "__main__":

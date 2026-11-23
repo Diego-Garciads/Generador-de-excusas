@@ -12,7 +12,7 @@
     "tipo": "corte",
     "zona": "Alboraia/Alboraya",
     "descripcion": "un corte de carril en V-21 km 16.4 (Alboraia/Alboraya)",
-    "timestamp": "2026-10-17T19:14:04.000+02:00",
+    "timestamp": "2026-11-10T01:41:29.000+01:00",
     "fin": null
   },
   {
@@ -30,14 +30,6 @@
     "descripcion": "obras en CV-560 km 7.8 (Càrcer)",
     "timestamp": "2026-08-03T13:00:00.000+02:00",
     "fin": "2026-11-27T13:00:00.000+01:00"
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obras",
-    "zona": "Canals",
-    "descripcion": "obras en A-7 km 408.0 (Canals)",
-    "timestamp": "2026-08-30T18:50:46.000+02:00",
-    "fin": null
   },
   {
     "fuente": "dgt",
@@ -81,25 +73,9 @@
   },
   {
     "fuente": "dgt",
-    "tipo": "obras",
-    "zona": "Massalavés",
-    "descripcion": "obras en A-7 km 377.5 (Massalavés)",
-    "timestamp": "2026-10-13T23:24:24.000+02:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obras",
-    "zona": "València",
-    "descripcion": "obras en V-30 km 0.0 (València)",
-    "timestamp": "2026-10-16T22:46:38.000+02:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obras",
+    "tipo": "obstaculo",
     "zona": "Alborache",
-    "descripcion": "obras en CV-425 km 5.8 (Alborache)",
+    "descripcion": "un obstáculo en la calzada en CV-425 km 5.8 (Alborache)",
     "timestamp": "2026-10-22T09:02:00.000+02:00",
     "fin": "2027-05-31T19:00:00.000+02:00"
   },
@@ -122,8 +98,8 @@
   {
     "fuente": "dgt",
     "tipo": "obstaculo",
-    "zona": "Alborache",
-    "descripcion": "un obstáculo en la calzada en CV-425 km 5.8 (Alborache)",
+    "zona": "Buñol",
+    "descripcion": "un obstáculo en la calzada en CV-425 km 3.9 (Buñol)",
     "timestamp": "2026-10-22T09:02:00.000+02:00",
     "fin": "2027-05-31T19:00:00.000+02:00"
   },
@@ -137,19 +113,11 @@
   },
   {
     "fuente": "dgt",
-    "tipo": "obstaculo",
-    "zona": "Buñol",
-    "descripcion": "un obstáculo en la calzada en CV-425 km 3.9 (Buñol)",
+    "tipo": "obras",
+    "zona": "Alborache",
+    "descripcion": "obras en CV-425 km 5.8 (Alborache)",
     "timestamp": "2026-10-22T09:02:00.000+02:00",
     "fin": "2027-05-31T19:00:00.000+02:00"
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obras",
-    "zona": "Yátova",
-    "descripcion": "obras en CV-429 km 19.3 (Yátova)",
-    "timestamp": "2026-11-04T07:44:00.000+01:00",
-    "fin": "2027-07-31T18:30:00.000+02:00"
   },
   {
     "fuente": "dgt",
@@ -162,16 +130,24 @@
   {
     "fuente": "dgt",
     "tipo": "obras",
-    "zona": "Manises",
-    "descripcion": "obras en N-220 km 0.0 (Manises)",
-    "timestamp": "2026-10-29T11:04:00.000+01:00",
-    "fin": "2027-04-29T18:00:00.000+02:00"
+    "zona": "Yátova",
+    "descripcion": "obras en CV-429 km 19.3 (Yátova)",
+    "timestamp": "2026-11-04T07:44:00.000+01:00",
+    "fin": "2027-07-31T18:30:00.000+02:00"
   },
   {
     "fuente": "dgt",
     "tipo": "obras",
     "zona": "Paterna",
     "descripcion": "obras en N-220 km 1.8 (Paterna)",
+    "timestamp": "2026-10-29T11:04:00.000+01:00",
+    "fin": "2027-04-29T18:00:00.000+02:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Manises",
+    "descripcion": "obras en N-220 km 0.0 (Manises)",
     "timestamp": "2026-10-29T11:04:00.000+01:00",
     "fin": "2027-04-29T18:00:00.000+02:00"
   },
@@ -193,14 +169,6 @@
   },
   {
     "fuente": "dgt",
-    "tipo": "vehiculo_parado",
-    "zona": "València",
-    "descripcion": "un vehículo averiado o parado en CV-500 km 0.916 (València)",
-    "timestamp": "2026-11-04T09:06:58.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
     "tipo": "corte",
     "zona": "Albuixech",
     "descripcion": "un corte de carril en V-21 km 10.39 (Albuixech)",
@@ -209,210 +177,506 @@
   },
   {
     "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Carlet",
+    "descripcion": "obras en CV-546 km 0.5 (Carlet)",
+    "timestamp": "2026-11-09T08:49:00.000+01:00",
+    "fin": "2027-09-01T18:00:00.000+02:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Villargordo del Cabriel",
+    "descripcion": "obras en A-3 km 249.0 (Villargordo del Cabriel)",
+    "timestamp": "2026-11-11T15:38:39.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Xeraco",
+    "descripcion": "obras en N-332 km 231.6 (Xeraco)",
+    "timestamp": "2026-11-23T08:39:00.000+01:00",
+    "fin": "2026-11-23T15:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Sueca",
+    "descripcion": "obras en A-38 km 6.9 (Sueca)",
+    "timestamp": "2026-11-23T07:59:00.000+01:00",
+    "fin": "2026-11-23T15:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Gandia",
+    "descripcion": "obras en N-332 km 221.4 (Gandia)",
+    "timestamp": "2026-11-23T08:00:00.000+01:00",
+    "fin": "2026-11-23T15:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Oliva",
+    "descripcion": "obras en AP-7 km 589.6 (Oliva)",
+    "timestamp": "2026-11-23T08:29:00.000+01:00",
+    "fin": "2026-11-23T15:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Xeraco",
+    "descripcion": "obras en N-332 km 231.6 (Xeraco)",
+    "timestamp": "2026-11-23T08:39:00.000+01:00",
+    "fin": "2026-11-23T15:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Gandia",
+    "descripcion": "un obstáculo en la calzada en N-332 km 222.0 (Gandia)",
+    "timestamp": "2026-11-23T08:00:00.000+01:00",
+    "fin": "2026-11-23T15:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "València",
+    "descripcion": "obras en V-30 km 7.0 (València)",
+    "timestamp": "2026-11-23T09:00:00.000+01:00",
+    "fin": "2026-11-23T15:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "València",
+    "descripcion": "obras en V-30 km 0.0 (València)",
+    "timestamp": "2026-11-23T08:00:00.000+01:00",
+    "fin": "2026-11-23T15:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "València",
+    "descripcion": "obras en V-30 km 7.0 (València)",
+    "timestamp": "2026-11-23T09:00:00.000+01:00",
+    "fin": "2026-11-23T15:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "València",
+    "descripcion": "obras en V-30 km 7.0 (València)",
+    "timestamp": "2026-11-23T08:41:00.000+01:00",
+    "fin": "2026-11-23T15:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Alzira",
+    "descripcion": "obras en CV-42 km 1.0 (Alzira)",
+    "timestamp": "2026-11-23T08:46:00.000+01:00",
+    "fin": "2026-11-23T18:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Villargordo del Cabriel",
+    "descripcion": "obras en A-3 km 250.0 (Villargordo del Cabriel)",
+    "timestamp": "2026-11-23T08:08:00.000+01:00",
+    "fin": "2026-11-23T18:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Castielfabib",
+    "descripcion": "obras en N-420 km 526.3 (Castielfabib)",
+    "timestamp": "2026-11-23T08:01:00.000+01:00",
+    "fin": "2026-11-23T18:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Gandia",
+    "descripcion": "obras en AP-7 km 576.5 (Gandia)",
+    "timestamp": "2026-11-23T09:27:00.000+01:00",
+    "fin": "2026-11-27T13:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Xeresa",
+    "descripcion": "obras en AP-7 km 573.2 (Xeresa)",
+    "timestamp": "2026-11-23T09:28:00.000+01:00",
+    "fin": "2026-11-27T13:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Turís",
+    "descripcion": "obras en CV-421 km 0.0 (Turís)",
+    "timestamp": "2026-11-23T07:46:00.000+01:00",
+    "fin": "2026-11-27T17:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Godelleta",
+    "descripcion": "obras en CV-421 km 3.3 (Godelleta)",
+    "timestamp": "2026-11-23T07:46:00.000+01:00",
+    "fin": "2026-11-27T17:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Turís",
+    "descripcion": "obras en CV-421 km 0.0 (Turís)",
+    "timestamp": "2026-11-23T07:46:00.000+01:00",
+    "fin": "2026-11-27T17:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Godelleta",
+    "descripcion": "obras en CV-421 km 3.3 (Godelleta)",
+    "timestamp": "2026-11-23T07:46:00.000+01:00",
+    "fin": "2026-11-27T17:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Algemesí",
+    "descripcion": "obras en AP-7 km 545.8 (Algemesí)",
+    "timestamp": "2026-11-23T08:00:00.000+01:00",
+    "fin": "2026-11-23T18:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "l'Olleria",
+    "descripcion": "obras en A-7 km 409.2 (l'Olleria)",
+    "timestamp": "2026-11-23T06:40:00.000+01:00",
+    "fin": "2026-11-23T16:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "l'Alcúdia",
+    "descripcion": "obras en A-7 km 371.9 (l'Alcúdia)",
+    "timestamp": "2026-11-23T07:52:00.000+01:00",
+    "fin": "2026-11-23T15:00:00.000+01:00"
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "retencion",
+    "zona": "Xirivella",
+    "descripcion": "una retención en VS-V-30-C km 9.0 (Xirivella)",
+    "timestamp": "2026-11-23T07:02:43.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Canals",
+    "descripcion": "obras en A-7 km 408.0 (Canals)",
+    "timestamp": "2026-11-23T08:07:55.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Fontanars dels Alforins",
+    "descripcion": "un obstáculo en la calzada en CV-660 km 12.935 (Fontanars dels Alforins)",
+    "timestamp": "2026-11-23T08:14:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "accidente",
+    "zona": "Pedralba",
+    "descripcion": "un accidente en CV-380 km 11.817 (Pedralba)",
+    "timestamp": "2026-11-23T08:19:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "València",
+    "descripcion": "un vehículo averiado o parado en V-31 km 12.831 (València)",
+    "timestamp": "2026-11-23T08:33:40.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Almussafes",
+    "descripcion": "un obstáculo en la calzada en AP-7 km 529.99 (Almussafes)",
+    "timestamp": "2026-11-23T08:29:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Losa del Obispo",
+    "descripcion": "un obstáculo en la calzada en CV-35 km 51.0 (Losa del Obispo)",
+    "timestamp": "2026-11-23T08:32:30.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obras",
+    "zona": "Picanya",
+    "descripcion": "obras en CV-36 km 4.0 (Picanya)",
+    "timestamp": "2026-11-23T08:34:34.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Sedaví",
+    "descripcion": "un obstáculo en la calzada en CV-407 km 4.11 (Sedaví)",
+    "timestamp": "2026-11-23T08:39:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Utiel",
+    "descripcion": "un obstáculo en la calzada en N-330 km 205.146 (Utiel)",
+    "timestamp": "2026-11-23T08:43:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Picanya",
+    "descripcion": "un obstáculo en la calzada en CV-36 km 4.32 (Picanya)",
+    "timestamp": "2026-11-23T08:43:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Albalat dels Sorells",
+    "descripcion": "un obstáculo en la calzada en CV-300 km 10.0 (Albalat dels Sorells)",
+    "timestamp": "2026-11-23T08:51:44.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Requena",
+    "descripcion": "un obstáculo en la calzada en A-3 km 296.584 (Requena)",
+    "timestamp": "2026-11-23T09:12:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "Paterna",
+    "descripcion": "un vehículo averiado o parado en CV-35 km 9.519 (Paterna)",
+    "timestamp": "2026-11-23T09:24:31.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Paterna",
+    "descripcion": "un obstáculo en la calzada en V-30 km 16.468 (Paterna)",
+    "timestamp": "2026-11-23T09:13:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "l'Alcúdia",
+    "descripcion": "un vehículo averiado o parado en A-7 km 376.209 (l'Alcúdia)",
+    "timestamp": "2026-11-23T09:15:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Paterna",
+    "descripcion": "un obstáculo en la calzada en VS-CV-35-D km 9.699 (Paterna)",
+    "timestamp": "2026-11-23T09:15:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "accidente",
+    "zona": "Paterna",
+    "descripcion": "un accidente en A-7 km 328.006 (Paterna)",
+    "timestamp": "2026-11-23T09:15:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Picassent",
+    "descripcion": "un obstáculo en la calzada en A-7 km 352.0 (Picassent)",
+    "timestamp": "2026-11-23T09:18:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "accidente",
+    "zona": "Quart de Poblet",
+    "descripcion": "un accidente en CV-403 km 0.25 (Quart de Poblet)",
+    "timestamp": "2026-11-23T09:19:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Beniparrell",
+    "descripcion": "un obstáculo en la calzada en V-31 km 5.942 (Beniparrell)",
+    "timestamp": "2026-11-23T09:30:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "Rafelbunyol",
+    "descripcion": "un vehículo averiado o parado en A-7 km 312.504 (Rafelbunyol)",
+    "timestamp": "2026-11-23T09:42:08.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "Quart de Poblet",
+    "descripcion": "un vehículo averiado o parado en V-30 km 12.576 (Quart de Poblet)",
+    "timestamp": "2026-11-23T09:43:47.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Llaurí",
+    "descripcion": "un obstáculo en la calzada en AP-7 km 556.988 (Llaurí)",
+    "timestamp": "2026-11-23T09:43:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "Quart de Poblet",
+    "descripcion": "un vehículo averiado o parado en V-30 km 11.985 (Quart de Poblet)",
+    "timestamp": "2026-11-23T09:46:50.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "Puçol",
+    "descripcion": "un vehículo averiado o parado en V-21 km 1.831 (Puçol)",
+    "timestamp": "2026-11-23T09:47:43.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "Beniarjó",
+    "descripcion": "un vehículo averiado o parado en CV-680 km 3.623 (Beniarjó)",
+    "timestamp": "2026-11-23T09:51:57.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "l'Alcúdia",
+    "descripcion": "un vehículo averiado o parado en A-7 km 372.912 (l'Alcúdia)",
+    "timestamp": "2026-11-23T09:52:09.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "València",
+    "descripcion": "un vehículo averiado o parado en CV-367 km 0.683 (València)",
+    "timestamp": "2026-11-23T09:55:15.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "Sot de Chera",
+    "descripcion": "un vehículo averiado o parado en CV-395 km 27.272 (Sot de Chera)",
+    "timestamp": "2026-11-23T09:55:56.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Torrent",
+    "descripcion": "un obstáculo en la calzada en CV-33 km 8.048 (Torrent)",
+    "timestamp": "2026-11-23T09:57:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "Chiva",
+    "descripcion": "un vehículo averiado o parado en A-3 km 327.572 (Chiva)",
+    "timestamp": "2026-11-23T10:02:24.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "Paterna",
+    "descripcion": "un vehículo averiado o parado en CV-30 km 0.406 (Paterna)",
+    "timestamp": "2026-11-23T10:03:51.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "Villargordo del Cabriel",
+    "descripcion": "un vehículo averiado o parado en N-3 km 242.122 (Villargordo del Cabriel)",
+    "timestamp": "2026-11-23T10:04:33.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
     "tipo": "vehiculo_parado",
     "zona": "Sagunt/Sagunto",
-    "descripcion": "un vehículo averiado o parado en A-7 km 297.004 (Sagunt/Sagunto)",
-    "timestamp": "2026-11-07T15:09:00.000+01:00",
+    "descripcion": "un vehículo averiado o parado en A-7 km 300.955 (Sagunt/Sagunto)",
+    "timestamp": "2026-11-23T10:08:07.000+01:00",
     "fin": null
   },
   {
     "fuente": "dgt",
-    "tipo": "obstaculo",
-    "zona": "Benifairó de la Valldigna",
-    "descripcion": "un obstáculo en la calzada en CV-50 km 6.936 (Benifairó de la Valldigna)",
-    "timestamp": "2026-11-07T17:32:00.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obstaculo",
-    "zona": "Alboraia/Alboraya",
-    "descripcion": "un obstáculo en la calzada en V-21 km 14.885 (Alboraia/Alboraya)",
-    "timestamp": "2026-11-07T18:53:00.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obstaculo",
+    "tipo": "vehiculo_parado",
     "zona": "Mislata",
-    "descripcion": "un obstáculo en la calzada en V-30 km 9.676 (Mislata)",
-    "timestamp": "2026-11-08T02:52:00.000+01:00",
+    "descripcion": "un vehículo averiado o parado en V-30 km 9.76 (Mislata)",
+    "timestamp": "2026-11-23T10:13:15.000+01:00",
     "fin": null
   },
   {
     "fuente": "dgt",
     "tipo": "obstaculo",
-    "zona": "Burjassot",
-    "descripcion": "un obstáculo en la calzada en CV-35 km 2.832 (Burjassot)",
-    "timestamp": "2026-11-08T06:44:00.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obstaculo",
-    "zona": "Llíria",
-    "descripcion": "un obstáculo en la calzada en CV-35 km 33.032 (Llíria)",
-    "timestamp": "2026-11-08T10:02:00.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "meteo",
-    "zona": "el Real de Gandia",
-    "descripcion": "condiciones meteorológicas adversas en AP-7 km 581.97 (el Real de Gandia)",
-    "timestamp": "2026-11-08T10:13:00.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obstaculo",
-    "zona": "València",
-    "descripcion": "un obstáculo en la calzada en CV-500 km 0.529 (València)",
-    "timestamp": "2026-11-08T10:15:00.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obstaculo",
-    "zona": "Alaquàs",
-    "descripcion": "un obstáculo en la calzada en CV-410 km 1.34 (Alaquàs)",
-    "timestamp": "2026-11-08T10:37:00.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "accidente",
-    "zona": "Estivella",
-    "descripcion": "un accidente en CV-334 km 4.878 (Estivella)",
-    "timestamp": "2026-11-08T10:53:00.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obstaculo",
-    "zona": "Oliva",
-    "descripcion": "un obstáculo en la calzada en AP-7 km 591.999 (Oliva)",
-    "timestamp": "2026-11-08T11:00:00.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obstaculo",
-    "zona": "el Puig de Santa Maria",
-    "descripcion": "un obstáculo en la calzada en CV-3182 km 0.01 (el Puig de Santa Maria)",
-    "timestamp": "2026-11-08T11:06:00.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "accidente",
-    "zona": "Requena",
-    "descripcion": "un accidente en A-3 km 283.011 (Requena)",
-    "timestamp": "2026-11-08T11:25:00.000+01:00",
+    "zona": "Sedaví",
+    "descripcion": "un obstáculo en la calzada en V-31 km 10.701 (Sedaví)",
+    "timestamp": "2026-11-23T10:18:00.000+01:00",
     "fin": null
   },
   {
     "fuente": "dgt",
     "tipo": "vehiculo_parado",
-    "zona": "Sollana",
-    "descripcion": "un vehículo averiado o parado en AP-7 km 532.959 (Sollana)",
-    "timestamp": "2026-11-08T11:45:17.000+01:00",
+    "zona": "Torrent",
+    "descripcion": "un vehículo averiado o parado en A-7 km 344.769 (Torrent)",
+    "timestamp": "2026-11-23T10:20:54.000+01:00",
     "fin": null
   },
   {
     "fuente": "dgt",
     "tipo": "vehiculo_parado",
-    "zona": "Meliana",
-    "descripcion": "un vehículo averiado o parado en CV-300 km 11.676 (Meliana)",
-    "timestamp": "2026-11-08T11:47:13.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obstaculo",
-    "zona": "Turís",
-    "descripcion": "un obstáculo en la calzada en CV-415 km 20.0 (Turís)",
-    "timestamp": "2026-11-08T11:46:00.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obstaculo",
-    "zona": "Andilla",
-    "descripcion": "un obstáculo en la calzada en CV-345 km 21.998 (Andilla)",
-    "timestamp": "2026-11-08T11:46:00.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "vehiculo_parado",
-    "zona": "Silla",
-    "descripcion": "un vehículo averiado o parado en CV-42 km 21.698 (Silla)",
-    "timestamp": "2026-11-08T11:49:26.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obstaculo",
-    "zona": "Gilet",
-    "descripcion": "un obstáculo en la calzada en CV-3280 km 0.874 (Gilet)",
-    "timestamp": "2026-11-08T11:48:00.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "obstaculo",
-    "zona": "Requena",
-    "descripcion": "un obstáculo en la calzada en A-3 km 291.0 (Requena)",
-    "timestamp": "2026-11-08T11:51:44.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "vehiculo_parado",
-    "zona": "San Antonio de Benagéber",
-    "descripcion": "un vehículo averiado o parado en CV-35 km 12.518 (San Antonio de Benagéber)",
-    "timestamp": "2026-11-08T11:54:16.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "vehiculo_parado",
-    "zona": "Bétera",
-    "descripcion": "un vehículo averiado o parado en CV-336 km 13.183 (Bétera)",
-    "timestamp": "2026-11-08T11:57:25.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "vehiculo_parado",
-    "zona": "Benaguasil",
-    "descripcion": "un vehículo averiado o parado en CV-3731 km 1.525 (Benaguasil)",
-    "timestamp": "2026-11-08T11:59:52.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "vehiculo_parado",
-    "zona": "València",
-    "descripcion": "un vehículo averiado o parado en A-7 km 321.354 (València)",
-    "timestamp": "2026-11-08T12:04:20.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "vehiculo_parado",
-    "zona": "Camporrobles",
-    "descripcion": "un vehículo averiado o parado en CV-474 km 13.543 (Camporrobles)",
-    "timestamp": "2026-11-08T12:08:04.000+01:00",
-    "fin": null
-  },
-  {
-    "fuente": "dgt",
-    "tipo": "vehiculo_parado",
-    "zona": "la Font d'en Carròs",
-    "descripcion": "un vehículo averiado o parado en CV-683 km 1.828 (la Font d'en Carròs)",
-    "timestamp": "2026-11-08T12:08:05.000+01:00",
+    "zona": "Algemesí",
+    "descripcion": "un vehículo averiado o parado en AP-7 km 542.177 (Algemesí)",
+    "timestamp": "2026-11-23T10:23:14.000+01:00",
     "fin": null
   }
 ]

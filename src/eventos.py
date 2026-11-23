@@ -5,11 +5,15 @@ Uso:
     python eventos.py            # crea eventos.json
 """
 import json
+from pathlib import Path
 import time
 from collections import Counter
 from datetime import datetime, timezone
 
 import requests
+
+# Carpeta data/ del proyecto, calculada desde este archivo (así da igual desde dónde se ejecute)
+DATA = Path(__file__).resolve().parent.parent / "data"
 
 URL = (
     "https://geoportal.valencia.es/server/rest/services/OPENDATA/Trafico/"
@@ -71,20 +75,68 @@ def corta_calle(reg):
     return "calzada" in afecta or "carril" in afecta
 
 
+# Abreviaturas del callejero del Ayuntamiento -> cómo se dice en una frase
+TIPOS_VIA = {
+    "C/": "la calle",
+    "Av.": "la avenida",
+    "Pl.": "la plaza",
+    "Cami.": "el camino",
+    "Ctra.": "la carretera",
+    "Grup.": "el grupo",
+    "P.I.": "",  # abreviatura poco clara: mejor no ponerla
+}
+
+
+def nombre_calle(calle):
+    """'C/ Baladre' -> 'la calle Baladre'; 'P.I. Perez Galdos' -> 'Perez Galdos'."""
+    for abrev, nombre in TIPOS_VIA.items():
+        if calle.startswith(abrev + " "):
+            resto = calle[len(abrev):].strip()
+            return f"{nombre} {resto}".strip()
+    return calle
+
+
+def describir_corte(afecta):
+    """Traduce la jerga del Ayuntamiento ('100% calzada', '1 carril'...) a lenguaje normal.
+
+    EL ORDEN IMPORTA: se mira primero lo más grave y lo más concreto.
+    """
+    a = afecta.lower()
+    if "100%" in a:
+        return "un corte total de la calle"
+    if "1/2 calzada" in a or "mitad" in a:
+        return "media calzada cortada"
+    if "carril bus" in a or "carril emt" in a:
+        return "el carril bus cortado"
+    if "dos carriles" in a or "3 carriles" in a:
+        return "varios carriles cortados"
+    if "1 carril" in a or "carril de circulaci" in a or "1/2 carril" in a:
+        return "un carril cortado"
+    if "carril bici" in a:
+        return "el carril bici cortado"
+    if "calzada" in a:
+        return "parte de la calzada cortada"
+    return "un corte de calle"
+
+
 def normalizar(reg):
     """Reduce cada ocupación a la estructura común del proyecto."""
     ini, fin = reg.get("fecha_inicio"), reg.get("fecha_fin")
     categoria = (reg.get("tipo_incidencia") or "otro").strip().lower()
     calle = (reg.get("desc_calle") or "").strip().title()
-    num = reg.get("numero_policia_origen")
+    # El número de portal: si no hay, la fuente pone 0, que no hay que mostrar
+    num = str(reg.get("numero_policia_origen") or "").strip()
+    if num in ("0", "None"):
+        num = ""
     afecta = (reg.get("tipo_afectacion") or "").strip().lower()
-    sitio = f"{calle} {num}".strip() if num else calle
+    sitio = f"{nombre_calle(calle)} {num}".strip()
+    motivo = " por obras" if categoria == "obras" else ""
     return {
         "fuente": "eventos",
         "tipo": "corte_calle",
         "categoria": categoria,  # OBRAS o INCIDENCIAS, tal cual viene en origen
         "zona": calle or None,
-        "descripcion": f"un corte de calle ({afecta}) en {sitio}",
+        "descripcion": f"{describir_corte(afecta)}{motivo} en {sitio}",
         "afectacion": afecta or None,
         # En OBRAS suele ser la empresa; en INCIDENCIAS, a ver qué es
         "motivo": (reg.get("desc_incidencia") or "").strip().title() or None,
@@ -125,9 +177,9 @@ def main():
         n = sum(1 for e in salida if e["duracion_dias"] is not None and e["duracion_dias"] <= limite)
         print(f"  de esos, {n} duran {limite} días o menos")
 
-    with open("eventos.json", "w", encoding="utf-8") as f:
+    with open(DATA / "eventos.json", "w", encoding="utf-8") as f:
         json.dump(salida, f, indent=2, ensure_ascii=False)
-    print(f"{len(salida)} ocupaciones guardadas en eventos.json")
+    print(f"{len(salida)} ocupaciones guardadas en data/eventos.json")
 
 
 if __name__ == "__main__":
