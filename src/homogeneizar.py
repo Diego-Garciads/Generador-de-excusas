@@ -208,12 +208,60 @@ def desde_valenbisi(registros, max_retraso=timedelta(days=1)):
     return salida
 
 
+# A partir de qué valores el tiempo sirve como excusa
+LLUVIA_MINIMA_MM = 0.5      # precipitación en la última hora (mm)
+RACHA_MINIMA_KMH = 50       # racha máxima de viento (km/h)
+
+
+def desde_aemet(registros):
+    """Solo interesa el tiempo ACTUAL de cada estación, y solo si es malo.
+
+    La AEMET da una observación por hora y estación. Nos quedamos con la última
+    de cada estación y generamos excusa si llueve o hay rachas fuertes de viento.
+    """
+    # 1. La observación más reciente de cada estación ('idema' es su código)
+    ultima = {}
+    for r in registros:
+        est = r.get("idema")
+        if est and r.get("fint"):
+            # Las fechas tienen todas el mismo formato, así que se comparan como texto
+            if est not in ultima or r["fint"] > ultima[est]["fint"]:
+                ultima[est] = r
+
+    # 2. Excusa solo si el tiempo es malo
+    salida = []
+    for r in ultima.values():
+        # 'SAGUNTO (MONTIVER PONTAZGO...)' -> 'Sagunto'
+        zona = (r.get("ubi") or "").split("(")[0].strip().title() or None
+        lluvia = r.get("prec") or 0
+        racha_kmh = round((r.get("vmax") or 0) * 3.6)  # la AEMET da el viento en m/s
+
+        if lluvia >= LLUVIA_MINIMA_MM:
+            subtipo, frase = "lluvia", f"estaba lloviendo con fuerza en {zona} ({lluvia} mm en la última hora)"
+        elif racha_kmh >= RACHA_MINIMA_KMH:
+            subtipo, frase = "viento", f"había rachas de viento de {racha_kmh} km/h en {zona}"
+        else:
+            continue  # buen tiempo: no hay excusa
+
+        salida.append(registro(
+            fuente="aemet",
+            tipo="meteo",
+            subtipo=subtipo,
+            zona=zona,
+            descripcion=frase,
+            inicio=fecha_madrid(r["fint"]),
+            detalles={"lluvia_mm": lluvia, "racha_kmh": racha_kmh, "temperatura": r.get("ta")},
+        ))
+    return salida
+
+
 # Nombre del fichero en data/ (sin .json) -> función que lo traduce.
 # Cuando Salva o Edu suban su parte, se añade aquí una línea.
 ADAPTADORES = {
     "dgt": desde_dgt,
     "eventos": desde_eventos,
     "valenbisi": desde_valenbisi,
+    "aemet": desde_aemet,
 }
 
 
