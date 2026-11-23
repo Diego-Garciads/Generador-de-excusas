@@ -38,12 +38,18 @@ def cargar_datos(ruta=HOMOGENEIZADO):
 
 def generar_excusa(datos, tipo=None):
     """Devuelve (texto de la excusa, registro usado), o (None, None) si no hay datos."""
-    # 1. Quedarse con los datos del tipo pedido (o con todos si no se pide ninguno)
-    candidatos = [r for r in datos if tipo is None or r["tipo"] == tipo]
+    # 1. Si no se pide un tipo, se elige uno al azar entre los que hay.
+    #    Así todos los tipos salen igual de a menudo, aunque de uno haya muchos más datos.
+    if tipo is None:
+        tipos_disponibles = sorted({r["tipo"] for r in datos})
+        if not tipos_disponibles:
+            return None, None
+        tipo = random.choice(tipos_disponibles)
+
+    # 2. Quedarse con los datos de ese tipo y elegir uno al azar
+    candidatos = [r for r in datos if r["tipo"] == tipo]
     if not candidatos:
         return None, None
-
-    # 2. Elegir uno al azar
     r = random.choice(candidatos)
 
     # 3. Montar la frase. Las descripciones de la DGT y del Ayuntamiento empiezan por

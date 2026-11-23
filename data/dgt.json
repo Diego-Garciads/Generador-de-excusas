@@ -657,10 +657,26 @@
   },
   {
     "fuente": "dgt",
+    "tipo": "obstaculo",
+    "zona": "Sedaví",
+    "descripcion": "un obstáculo en la calzada en V-31 km 10.701 (Sedaví)",
+    "timestamp": "2026-11-23T10:18:00.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
     "tipo": "vehiculo_parado",
-    "zona": "Corbera",
-    "descripcion": "un vehículo averiado o parado en AP-7 km 548.64 (Corbera)",
-    "timestamp": "2026-11-23T10:18:42.000+01:00",
+    "zona": "Torrent",
+    "descripcion": "un vehículo averiado o parado en A-7 km 344.769 (Torrent)",
+    "timestamp": "2026-11-23T10:20:54.000+01:00",
+    "fin": null
+  },
+  {
+    "fuente": "dgt",
+    "tipo": "vehiculo_parado",
+    "zona": "Algemesí",
+    "descripcion": "un vehículo averiado o parado en AP-7 km 542.177 (Algemesí)",
+    "timestamp": "2026-11-23T10:23:14.000+01:00",
     "fin": null
   }
 ]

@@ -2,172 +2,12 @@
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Periodista Gil Sumbiela - Poeta Serrano Clavero",
-    "bicis_libres": 2,
-    "huecos_libres": 13,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Albacete - Maluquer",
-    "bicis_libres": 1,
-    "huecos_libres": 17,
-    "total": 18,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Plaza Ayuntamiento - Cotanda",
-    "bicis_libres": 15,
-    "huecos_libres": 5,
-    "total": 27,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Navarro Reverter - Grabador Esteve",
-    "bicis_libres": 15,
-    "huecos_libres": 14,
-    "total": 29,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Cirilo Amorós - Jorge Juan (Mercado Colón)",
-    "bicis_libres": 12,
-    "huecos_libres": 8,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Pío XII - Campanar",
-    "bicis_libres": 1,
-    "huecos_libres": 19,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Alcudia de Crespins - Pedro Patricio Mey",
-    "bicis_libres": 2,
-    "huecos_libres": 11,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Cra. Malilla - Bulevar Sur",
-    "bicis_libres": 15,
-    "huecos_libres": 0,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Corts Valencianes - General Avilés",
-    "bicis_libres": 8,
-    "huecos_libres": 12,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
     "zona": "San José de Calasanz - Salas Quiroga",
     "bicis_libres": 0,
     "huecos_libres": 14,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Regne de Valencia - Almirante Cadarso",
-    "bicis_libres": 1,
-    "huecos_libres": 8,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Carteros - Mossen Febrer",
-    "bicis_libres": 7,
-    "huecos_libres": 13,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Av. de la Plata - Zapadores",
-    "bicis_libres": 10,
-    "huecos_libres": 13,
-    "total": 23,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Castán Tobeñas - Patriques",
-    "bicis_libres": 0,
-    "huecos_libres": 16,
-    "total": 16,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Nueve de Octubre - Cieza",
-    "bicis_libres": 0,
-    "huecos_libres": 20,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Zapadores, 23",
-    "bicis_libres": 1,
-    "huecos_libres": 14,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Fernando el Católico - Cuenca",
-    "bicis_libres": 8,
-    "huecos_libres": 11,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -177,17 +17,7 @@
     "huecos_libres": 15,
     "total": 17,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Autopista del Saler - Puente Monteolivete",
-    "bicis_libres": 10,
-    "huecos_libres": 6,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -197,7 +27,7 @@
     "huecos_libres": 11,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -207,7 +37,137 @@
     "huecos_libres": 17,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Cra. Malilla - Bulevar Sur",
+    "bicis_libres": 15,
+    "huecos_libres": 0,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Corts Valencianes - General Avilés",
+    "bicis_libres": 8,
+    "huecos_libres": 12,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Albacete - Maluquer",
+    "bicis_libres": 1,
+    "huecos_libres": 17,
+    "total": 18,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Nueve de Octubre - Cieza",
+    "bicis_libres": 0,
+    "huecos_libres": 20,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Autopista del Saler - Puente Monteolivete",
+    "bicis_libres": 11,
+    "huecos_libres": 5,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Pío XII - Campanar",
+    "bicis_libres": 1,
+    "huecos_libres": 19,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Plaza Ayuntamiento - Cotanda",
+    "bicis_libres": 16,
+    "huecos_libres": 4,
+    "total": 27,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Periodista Gil Sumbiela - Poeta Serrano Clavero",
+    "bicis_libres": 2,
+    "huecos_libres": 13,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Fernando el Católico - Cuenca",
+    "bicis_libres": 8,
+    "huecos_libres": 11,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Navarro Reverter - Grabador Esteve",
+    "bicis_libres": 14,
+    "huecos_libres": 15,
+    "total": 29,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Carteros - Mossen Febrer",
+    "bicis_libres": 7,
+    "huecos_libres": 13,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Cirilo Amorós - Jorge Juan (Mercado Colón)",
+    "bicis_libres": 10,
+    "huecos_libres": 10,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Regne de Valencia - Almirante Cadarso",
+    "bicis_libres": 1,
+    "huecos_libres": 8,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -217,7 +177,37 @@
     "huecos_libres": 4,
     "total": 17,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Alcudia de Crespins - Pedro Patricio Mey",
+    "bicis_libres": 2,
+    "huecos_libres": 11,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Av. de la Plata - Zapadores",
+    "bicis_libres": 10,
+    "huecos_libres": 13,
+    "total": 23,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Zapadores, 23",
+    "bicis_libres": 1,
+    "huecos_libres": 14,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -227,47 +217,17 @@
     "huecos_libres": 21,
     "total": 21,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Paseo Neptuno 32-34",
-    "bicis_libres": 2,
-    "huecos_libres": 17,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Ebanista Caselles - Ausias March",
+    "zona": "Castán Tobeñas - Patriques",
     "bicis_libres": 0,
-    "huecos_libres": 15,
-    "total": 15,
+    "huecos_libres": 16,
+    "total": 16,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Ángel Villena - Ausias March",
-    "bicis_libres": 10,
-    "huecos_libres": 5,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Fontanars dels Aforins - Jacinto Labaila",
-    "bicis_libres": 5,
-    "huecos_libres": 10,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -277,97 +237,27 @@
     "huecos_libres": 15,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Nicasio Benlloch - Amics dels Corpus",
-    "bicis_libres": 1,
-    "huecos_libres": 23,
-    "total": 24,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Gaspar Aguilar - Músico Penella",
-    "bicis_libres": 15,
-    "huecos_libres": 2,
-    "total": 17,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Aitana - Florista",
-    "bicis_libres": 2,
-    "huecos_libres": 14,
-    "total": 16,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Veles e Vents",
-    "bicis_libres": 7,
-    "huecos_libres": 13,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Plaza América - Cirilo Amorós - Sorní",
-    "bicis_libres": 13,
-    "huecos_libres": 7,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Mediterráneo - Plaza Cruz de Cañamelar",
-    "bicis_libres": 0,
-    "huecos_libres": 15,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Hospital Nueva Fe (consultas externas)",
-    "bicis_libres": 38,
-    "huecos_libres": 2,
-    "total": 40,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Esparraguera - Cra. Malilla",
-    "bicis_libres": 1,
-    "huecos_libres": 14,
+    "bicis_libres": 2,
+    "huecos_libres": 13,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Cra. Malilla - Oltá",
-    "bicis_libres": 2,
-    "huecos_libres": 18,
-    "total": 20,
+    "zona": "Fontanars dels Aforins - Jacinto Labaila",
+    "bicis_libres": 4,
+    "huecos_libres": 11,
+    "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -377,27 +267,7 @@
     "huecos_libres": 13,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Perez Galdós - Nou Moles",
-    "bicis_libres": 1,
-    "huecos_libres": 19,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Reina Violante - Escultor García Mas",
-    "bicis_libres": 0,
-    "huecos_libres": 15,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -407,27 +277,37 @@
     "huecos_libres": 15,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Ángel Villena - Ausias March",
+    "bicis_libres": 9,
+    "huecos_libres": 6,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Veles e Vents",
+    "bicis_libres": 7,
+    "huecos_libres": 13,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Plaza de la Reina - Mar",
-    "bicis_libres": 2,
-    "huecos_libres": 7,
+    "bicis_libres": 1,
+    "huecos_libres": 8,
     "total": 9,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "San Clemente - Hospital Arnau de Vilanova",
-    "bicis_libres": 9,
-    "huecos_libres": 11,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -437,7 +317,7 @@
     "huecos_libres": 14,
     "total": 19,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -447,7 +327,7 @@
     "huecos_libres": 6,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -457,47 +337,127 @@
     "huecos_libres": 10,
     "total": 18,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Santa Cruz de Tenerife, 21",
-    "bicis_libres": 4,
-    "huecos_libres": 11,
+    "zona": "Hospital Nueva Fe (consultas externas)",
+    "bicis_libres": 38,
+    "huecos_libres": 2,
+    "total": 40,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Perez Galdós - Nou Moles",
+    "bicis_libres": 1,
+    "huecos_libres": 19,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Reina Violante - Escultor García Mas",
+    "bicis_libres": 0,
+    "huecos_libres": 15,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Av. del Cid - Burgos",
-    "bicis_libres": 1,
-    "huecos_libres": 16,
+    "zona": "Nicasio Benlloch - Amics dels Corpus",
+    "bicis_libres": 0,
+    "huecos_libres": 24,
+    "total": 24,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Gaspar Aguilar - Músico Penella",
+    "bicis_libres": 15,
+    "huecos_libres": 2,
     "total": 17,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Olimpia Arozena Torres - Juan Bautista Vives",
-    "bicis_libres": 0,
-    "huecos_libres": 15,
-    "total": 15,
+    "zona": "San Clemente - Hospital Arnau de Vilanova",
+    "bicis_libres": 8,
+    "huecos_libres": 12,
+    "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Rio Segre - Rafael Company",
+    "zona": "Aitana - Florista",
+    "bicis_libres": 2,
+    "huecos_libres": 14,
+    "total": 16,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Mediterráneo - Plaza Cruz de Cañamelar",
     "bicis_libres": 0,
     "huecos_libres": 15,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Paseo Neptuno 32-34",
+    "bicis_libres": 2,
+    "huecos_libres": 17,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Ebanista Caselles - Ausias March",
+    "bicis_libres": 0,
+    "huecos_libres": 15,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Cra. Malilla - Oltá",
+    "bicis_libres": 2,
+    "huecos_libres": 18,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Plaza América - Cirilo Amorós - Sorní",
+    "bicis_libres": 13,
+    "huecos_libres": 7,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -507,97 +467,17 @@
     "huecos_libres": 19,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Plaza del Musico López Chavarri",
-    "bicis_libres": 1,
-    "huecos_libres": 19,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Peris y Valero - Cabo Jubi",
-    "bicis_libres": 1,
-    "huecos_libres": 14,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Antigua: General Urrutia - Av. de la Plata",
     "bicis_libres": 2,
-    "huecos_libres": 15,
-    "total": 19,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Bombero Ramón Duart - Hermanos Maristas",
-    "bicis_libres": 5,
-    "huecos_libres": 10,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Uruguay - Carteros",
-    "bicis_libres": 1,
-    "huecos_libres": 19,
+    "huecos_libres": 18,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Giorgeta - Roig de Corella",
-    "bicis_libres": 1,
-    "huecos_libres": 15,
-    "total": 16,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Xátiva - Bailén (Estación del Norte)",
-    "bicis_libres": 7,
-    "huecos_libres": 22,
-    "total": 30,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Plaza de los Fueros - Conde Trenor",
-    "bicis_libres": 6,
-    "huecos_libres": 19,
-    "total": 25,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Campos Crespo - Juan de Garay",
-    "bicis_libres": 3,
-    "huecos_libres": 12,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -607,7 +487,67 @@
     "huecos_libres": 9,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Xátiva - Bailén (Estación del Norte)",
+    "bicis_libres": 7,
+    "huecos_libres": 22,
+    "total": 30,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Plaza de los Fueros - Conde Trenor",
+    "bicis_libres": 7,
+    "huecos_libres": 18,
+    "total": 25,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Peris y Valero - Cabo Jubi",
+    "bicis_libres": 1,
+    "huecos_libres": 14,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Antigua: General Urrutia - Av. de la Plata",
+    "bicis_libres": 2,
+    "huecos_libres": 15,
+    "total": 19,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Giorgeta - Roig de Corella",
+    "bicis_libres": 1,
+    "huecos_libres": 15,
+    "total": 16,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Campos Crespo - Juan de Garay",
+    "bicis_libres": 3,
+    "huecos_libres": 12,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -617,37 +557,67 @@
     "huecos_libres": 14,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Músico Ayllón - Francisco Dolz",
-    "bicis_libres": 3,
-    "huecos_libres": 12,
+    "zona": "Santa Cruz de Tenerife, 21",
+    "bicis_libres": 4,
+    "huecos_libres": 11,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Castán Tobeñas - Rincon de Ademuz",
-    "bicis_libres": 5,
-    "huecos_libres": 13,
-    "total": 18,
+    "zona": "Av. del Cid - Burgos",
+    "bicis_libres": 1,
+    "huecos_libres": 16,
+    "total": 17,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Manuel de Falla - Hernández Lázaro",
-    "bicis_libres": 0,
-    "huecos_libres": 20,
+    "zona": "Bombero Ramón Duart - Hermanos Maristas",
+    "bicis_libres": 5,
+    "huecos_libres": 10,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Uruguay - Carteros",
+    "bicis_libres": 1,
+    "huecos_libres": 19,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Olimpia Arozena Torres - Juan Bautista Vives",
+    "bicis_libres": 0,
+    "huecos_libres": 15,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Rio Segre - Rafael Company",
+    "bicis_libres": 0,
+    "huecos_libres": 15,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -657,7 +627,7 @@
     "huecos_libres": 13,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -667,7 +637,7 @@
     "huecos_libres": 17,
     "total": 19,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -677,7 +647,7 @@
     "huecos_libres": 20,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -687,7 +657,7 @@
     "huecos_libres": 19,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -697,7 +667,7 @@
     "huecos_libres": 6,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -707,7 +677,7 @@
     "huecos_libres": 8,
     "total": 30,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -717,127 +687,37 @@
     "huecos_libres": 12,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Padre Barranco - Carlos Ruano Llopis (Pintor)",
+    "zona": "Músico Ayllón - Francisco Dolz",
     "bicis_libres": 3,
-    "huecos_libres": 17,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Alcañiz - Cambrils",
-    "bicis_libres": 0,
-    "huecos_libres": 15,
+    "huecos_libres": 12,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "San Juan Bosco - Santiago Rusiñol",
+    "zona": "Castán Tobeñas - Rincon de Ademuz",
     "bicis_libres": 5,
-    "huecos_libres": 10,
-    "total": 15,
+    "huecos_libres": 13,
+    "total": 18,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Barcas, 11",
-    "bicis_libres": 15,
-    "huecos_libres": 11,
-    "total": 26,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Pintor Luis Arcas - Inst. Obrero Valenciano",
-    "bicis_libres": 10,
-    "huecos_libres": 9,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Cataluña - Doctor Vicente Zaragozá",
-    "bicis_libres": 14,
-    "huecos_libres": 2,
-    "total": 16,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Gascó Oliag - Primado Reig",
-    "bicis_libres": 25,
-    "huecos_libres": 4,
-    "total": 30,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Jaime Roig - Bachiller",
-    "bicis_libres": 1,
-    "huecos_libres": 16,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Murta - Sant Eperit",
+    "zona": "Manuel de Falla - Hernández Lázaro",
     "bicis_libres": 0,
-    "huecos_libres": 14,
-    "total": 15,
+    "huecos_libres": 20,
+    "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Conde Torrefiel - Cecilio Plá",
-    "bicis_libres": 8,
-    "huecos_libres": 7,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Levante U.D. - Ecuador",
-    "bicis_libres": 8,
-    "huecos_libres": 7,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Doctor Tomás Sala - Carteros",
-    "bicis_libres": 9,
-    "huecos_libres": 10,
-    "total": 19,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -847,7 +727,7 @@
     "huecos_libres": 14,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -857,7 +737,37 @@
     "huecos_libres": 19,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Gascó Oliag - Primado Reig",
+    "bicis_libres": 25,
+    "huecos_libres": 4,
+    "total": 30,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Jaime Roig - Bachiller",
+    "bicis_libres": 1,
+    "huecos_libres": 16,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Murta - Sant Eperit",
+    "bicis_libres": 1,
+    "huecos_libres": 13,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -867,17 +777,97 @@
     "huecos_libres": 11,
     "total": 18,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Moreras - Rona de Nazaret",
-    "bicis_libres": 18,
-    "huecos_libres": 1,
+    "zona": "Padre Barranco - Carlos Ruano Llopis (Pintor)",
+    "bicis_libres": 3,
+    "huecos_libres": 17,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Alcañiz - Cambrils",
+    "bicis_libres": 0,
+    "huecos_libres": 15,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "San Juan Bosco - Santiago Rusiñol",
+    "bicis_libres": 5,
+    "huecos_libres": 10,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Conde Torrefiel - Cecilio Plá",
+    "bicis_libres": 8,
+    "huecos_libres": 7,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Levante U.D. - Ecuador",
+    "bicis_libres": 8,
+    "huecos_libres": 7,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Doctor Tomás Sala - Carteros",
+    "bicis_libres": 10,
+    "huecos_libres": 9,
+    "total": 19,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Barcas, 11",
+    "bicis_libres": 15,
+    "huecos_libres": 11,
+    "total": 26,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Pintor Luis Arcas - Inst. Obrero Valenciano",
+    "bicis_libres": 10,
+    "huecos_libres": 9,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Cataluña - Doctor Vicente Zaragozá",
+    "bicis_libres": 14,
+    "huecos_libres": 2,
+    "total": 16,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -887,17 +877,17 @@
     "huecos_libres": 15,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Av. Puerto - Plaza Tribunal de les Aigües",
-    "bicis_libres": 19,
-    "huecos_libres": 1,
+    "bicis_libres": 20,
+    "huecos_libres": 0,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -907,47 +897,17 @@
     "huecos_libres": 9,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Pio XII - Menéndez PIdal (Nuevo Centro)",
-    "bicis_libres": 23,
-    "huecos_libres": 5,
-    "total": 30,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Borna pruebas laboratorio madrid",
-    "bicis_libres": 1,
-    "huecos_libres": 0,
-    "total": 2,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Av Puerto 19 (Telefónica)",
-    "bicis_libres": 11,
-    "huecos_libres": 9,
+    "zona": "Moreras - Rona de Nazaret",
+    "bicis_libres": 18,
+    "huecos_libres": 1,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Plaza Badajoz",
-    "bicis_libres": 1,
-    "huecos_libres": 14,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -957,27 +917,27 @@
     "huecos_libres": 25,
     "total": 25,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Av. Puerto - Doctor Manuel Candela",
-    "bicis_libres": 3,
-    "huecos_libres": 15,
-    "total": 19,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Juan Verdeguer - Toneleros",
-    "bicis_libres": 8,
+    "zona": "Av Puerto 19 (Telefónica)",
+    "bicis_libres": 14,
     "huecos_libres": 6,
-    "total": 14,
+    "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Pio XII - Menéndez PIdal (Nuevo Centro)",
+    "bicis_libres": 23,
+    "huecos_libres": 5,
+    "total": 30,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -987,47 +947,27 @@
     "huecos_libres": 17,
     "total": 18,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Plaza Salvador Soria, 8",
-    "bicis_libres": 2,
-    "huecos_libres": 18,
-    "total": 20,
+    "zona": "Borna pruebas laboratorio madrid",
+    "bicis_libres": 1,
+    "huecos_libres": 0,
+    "total": 2,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Pio IX - Músico Cabanilles",
-    "bicis_libres": 10,
-    "huecos_libres": 10,
-    "total": 20,
+    "zona": "Plaza Badajoz",
+    "bicis_libres": 1,
+    "huecos_libres": 14,
+    "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Av. Puerto - Serrería",
-    "bicis_libres": 20,
-    "huecos_libres": 5,
-    "total": 25,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Plaza de la Virgen - Bailía",
-    "bicis_libres": 2,
-    "huecos_libres": 22,
-    "total": 25,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1037,7 +977,17 @@
     "huecos_libres": 14,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Plaza de la Virgen - Bailía",
+    "bicis_libres": 2,
+    "huecos_libres": 22,
+    "total": 25,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1047,7 +997,7 @@
     "huecos_libres": 19,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1057,17 +1007,57 @@
     "huecos_libres": 4,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Almazora - Benimuslem",
+    "zona": "Av. Puerto - Doctor Manuel Candela",
     "bicis_libres": 3,
-    "huecos_libres": 16,
+    "huecos_libres": 15,
+    "total": 19,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Juan Verdeguer - Toneleros",
+    "bicis_libres": 8,
+    "huecos_libres": 6,
+    "total": 14,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Plaza Salvador Soria, 8",
+    "bicis_libres": 2,
+    "huecos_libres": 18,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Pio IX - Músico Cabanilles",
+    "bicis_libres": 10,
+    "huecos_libres": 10,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Av. Puerto - Serrería",
+    "bicis_libres": 21,
+    "huecos_libres": 4,
+    "total": 25,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1077,17 +1067,17 @@
     "huecos_libres": 11,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Moraira - Alta del Mar",
-    "bicis_libres": 7,
-    "huecos_libres": 7,
-    "total": 15,
+    "zona": "Almazora - Benimuslem",
+    "bicis_libres": 3,
+    "huecos_libres": 16,
+    "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1097,7 +1087,7 @@
     "huecos_libres": 18,
     "total": 19,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1107,7 +1097,7 @@
     "huecos_libres": 14,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1117,47 +1107,37 @@
     "huecos_libres": 20,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Doctor Waksman - Nieves",
-    "bicis_libres": 2,
-    "huecos_libres": 17,
+    "bicis_libres": 3,
+    "huecos_libres": 16,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Moraira - Alta del Mar",
+    "bicis_libres": 7,
+    "huecos_libres": 7,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Plaza Xuquer - Vinalopó",
-    "bicis_libres": 17,
-    "huecos_libres": 2,
+    "bicis_libres": 19,
+    "huecos_libres": 0,
     "total": 19,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Plaza Poeta Llorente",
-    "bicis_libres": 12,
-    "huecos_libres": 2,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Antonio Ferrandis - General Urrutia",
-    "bicis_libres": 12,
-    "huecos_libres": 8,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1167,7 +1147,7 @@
     "huecos_libres": 17,
     "total": 18,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1177,7 +1157,7 @@
     "huecos_libres": 12,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1187,7 +1167,7 @@
     "huecos_libres": 11,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1197,57 +1177,27 @@
     "huecos_libres": 9,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Reina Doña María - Cádiz",
-    "bicis_libres": 7,
+    "zona": "Plaza Poeta Llorente",
+    "bicis_libres": 12,
+    "huecos_libres": 2,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Antonio Ferrandis - General Urrutia",
+    "bicis_libres": 12,
     "huecos_libres": 8,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Av. del Cid - Julián Peña",
-    "bicis_libres": 1,
-    "huecos_libres": 14,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Guillem de Castro - San Pedro Pascual",
-    "bicis_libres": 7,
-    "huecos_libres": 8,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Pechina - Teruel",
-    "bicis_libres": 0,
-    "huecos_libres": 20,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Plaza Luis Cano, 5",
-    "bicis_libres": 3,
-    "huecos_libres": 7,
-    "total": 10,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1257,7 +1207,7 @@
     "huecos_libres": 27,
     "total": 40,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1267,37 +1217,7 @@
     "huecos_libres": 4,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Ninot - Regino Mas",
-    "bicis_libres": 8,
-    "huecos_libres": 8,
-    "total": 16,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Vicente la Roda - Ingeniero Fausto Elio",
-    "bicis_libres": 13,
-    "huecos_libres": 2,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "San Francisco de Paula - Castell de Pop",
-    "bicis_libres": 10,
-    "huecos_libres": 5,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1307,47 +1227,87 @@
     "huecos_libres": 15,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Plaza de Tetuán",
-    "bicis_libres": 13,
-    "huecos_libres": 12,
-    "total": 25,
+    "zona": "Reina Doña María - Cádiz",
+    "bicis_libres": 7,
+    "huecos_libres": 8,
+    "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Guillem de Anglesola - Av. Puerto",
+    "zona": "Av. del Cid - Julián Peña",
     "bicis_libres": 1,
-    "huecos_libres": 24,
-    "total": 25,
+    "huecos_libres": 14,
+    "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Av. Puerto - José Aguilar",
-    "bicis_libres": 12,
-    "huecos_libres": 7,
+    "zona": "Pechina - Teruel",
+    "bicis_libres": 0,
+    "huecos_libres": 20,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Corts Valencianes - La Safor",
-    "bicis_libres": 10,
-    "huecos_libres": 20,
-    "total": 30,
+    "zona": "Plaza Luis Cano, 5",
+    "bicis_libres": 3,
+    "huecos_libres": 7,
+    "total": 10,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Ninot - Regino Mas",
+    "bicis_libres": 8,
+    "huecos_libres": 8,
+    "total": 16,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Vicente la Roda - Ingeniero Fausto Elio",
+    "bicis_libres": 13,
+    "huecos_libres": 2,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "San Francisco de Paula - Castell de Pop",
+    "bicis_libres": 10,
+    "huecos_libres": 5,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Guillem de Castro - San Pedro Pascual",
+    "bicis_libres": 8,
+    "huecos_libres": 7,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1357,7 +1317,7 @@
     "huecos_libres": 12,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1367,7 +1327,7 @@
     "huecos_libres": 9,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1377,7 +1337,7 @@
     "huecos_libres": 16,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1387,97 +1347,47 @@
     "huecos_libres": 8,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Plaza Músico Espí",
-    "bicis_libres": 1,
-    "huecos_libres": 14,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Pintor Rafael Solves - Jose Soto Mico",
-    "bicis_libres": 4,
+    "zona": "Plaza de Tetuán",
+    "bicis_libres": 14,
     "huecos_libres": 11,
-    "total": 15,
+    "total": 25,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Traginers - Pedrapiquers",
-    "bicis_libres": 15,
-    "huecos_libres": 5,
-    "total": 20,
+    "zona": "Guillem de Anglesola - Av. Puerto",
+    "bicis_libres": 1,
+    "huecos_libres": 24,
+    "total": 25,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Tres Forques - Colonia Española de Mexico",
-    "bicis_libres": 13,
+    "zona": "Av. Puerto - José Aguilar",
+    "bicis_libres": 12,
     "huecos_libres": 7,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Juan Llorens - Quart",
-    "bicis_libres": 0,
-    "huecos_libres": 15,
-    "total": 15,
+    "zona": "Corts Valencianes - La Safor",
+    "bicis_libres": 10,
+    "huecos_libres": 20,
+    "total": 30,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Juan Llorens - Literato Gabriel Miró",
-    "bicis_libres": 0,
-    "huecos_libres": 16,
-    "total": 16,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Fernando el Católico - Erudito Orellana",
-    "bicis_libres": 1,
-    "huecos_libres": 18,
-    "total": 19,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Alberique, 18 (Abastos)",
-    "bicis_libres": 2,
-    "huecos_libres": 21,
-    "total": 23,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "San Vicente Martir - Doctor Vilá Barberá",
-    "bicis_libres": 3,
-    "huecos_libres": 17,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1487,7 +1397,7 @@
     "huecos_libres": 16,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1497,7 +1407,7 @@
     "huecos_libres": 13,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1507,7 +1417,7 @@
     "huecos_libres": 5,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1517,7 +1427,37 @@
     "huecos_libres": 4,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Juan Llorens - Quart",
+    "bicis_libres": 6,
+    "huecos_libres": 9,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Juan Llorens - Literato Gabriel Miró",
+    "bicis_libres": 0,
+    "huecos_libres": 16,
+    "total": 16,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Fernando el Católico - Erudito Orellana",
+    "bicis_libres": 1,
+    "huecos_libres": 18,
+    "total": 19,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1527,57 +1467,67 @@
     "huecos_libres": 13,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "C/GUILLEM DE CASTRO esquina con C/NA JORDANA",
-    "bicis_libres": 15,
-    "huecos_libres": 10,
-    "total": 25,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Pavía - Acequia de la Cadena",
-    "bicis_libres": 9,
-    "huecos_libres": 10,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Pavía (Instituto Isabel de Villena)",
-    "bicis_libres": 2,
-    "huecos_libres": 18,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Salvador Giner - C. Museo",
-    "bicis_libres": 0,
+    "zona": "Plaza Músico Espí",
+    "bicis_libres": 1,
     "huecos_libres": 14,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Blasco Ibañez - Jaime Roig",
-    "bicis_libres": 21,
-    "huecos_libres": 2,
+    "zona": "Pintor Rafael Solves - Jose Soto Mico",
+    "bicis_libres": 4,
+    "huecos_libres": 11,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Traginers - Pedrapiquers",
+    "bicis_libres": 15,
+    "huecos_libres": 5,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Tres Forques - Colonia Española de Mexico",
+    "bicis_libres": 13,
+    "huecos_libres": 7,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Alberique, 18 (Abastos)",
+    "bicis_libres": 3,
+    "huecos_libres": 20,
     "total": 23,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "San Vicente Martir - Doctor Vilá Barberá",
+    "bicis_libres": 3,
+    "huecos_libres": 17,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1587,37 +1537,7 @@
     "huecos_libres": 15,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Tres Cruces - Segunda República Española",
-    "bicis_libres": 1,
-    "huecos_libres": 14,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Arquitecto Segura del Lago - Camino Nuevo de Picaña",
-    "bicis_libres": 3,
-    "huecos_libres": 12,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Pavía - Columbretes",
-    "bicis_libres": 2,
-    "huecos_libres": 15,
-    "total": 17,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1627,27 +1547,17 @@
     "huecos_libres": 17,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "La Safor - Maestro Rodrigo",
-    "bicis_libres": 5,
-    "huecos_libres": 10,
+    "bicis_libres": 4,
+    "huecos_libres": 11,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Tres Cruces - Músico Ayllón",
-    "bicis_libres": 8,
-    "huecos_libres": 7,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1657,7 +1567,17 @@
     "huecos_libres": 10,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Tres Cruces - Músico Ayllón",
+    "bicis_libres": 9,
+    "huecos_libres": 6,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1667,7 +1587,57 @@
     "huecos_libres": 18,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "C/GUILLEM DE CASTRO esquina con C/NA JORDANA",
+    "bicis_libres": 14,
+    "huecos_libres": 11,
+    "total": 25,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Salvador Giner - C. Museo",
+    "bicis_libres": 0,
+    "huecos_libres": 14,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Tres Cruces - Segunda República Española",
+    "bicis_libres": 1,
+    "huecos_libres": 14,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Blasco Ibañez - Jaime Roig",
+    "bicis_libres": 22,
+    "huecos_libres": 1,
+    "total": 23,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Pavía - Columbretes",
+    "bicis_libres": 2,
+    "huecos_libres": 15,
+    "total": 17,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1677,7 +1647,7 @@
     "huecos_libres": 18,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1687,107 +1657,47 @@
     "huecos_libres": 13,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Valle de la Ballestera - Hospital Nueve de Octubre",
+    "zona": "Arquitecto Segura del Lago - Camino Nuevo de Picaña",
     "bicis_libres": 3,
-    "huecos_libres": 16,
+    "huecos_libres": 12,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Pavía - Acequia de la Cadena",
+    "bicis_libres": 9,
+    "huecos_libres": 10,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Plaza del Mercado - Taula de Canvis",
-    "bicis_libres": 10,
-    "huecos_libres": 9,
-    "total": 19,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Jorge Comin (Metge) - Terrateig",
-    "bicis_libres": 0,
+    "zona": "Pavía (Instituto Isabel de Villena)",
+    "bicis_libres": 1,
     "huecos_libres": 19,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Tres Cruces - Hospital General",
-    "bicis_libres": 6,
-    "huecos_libres": 14,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Hospital - Horno del Hospital",
-    "bicis_libres": 9,
-    "huecos_libres": 6,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Calle Salvá - Calle Poeta Querol (Antigua ubicación MINYANA)",
-    "bicis_libres": 16,
-    "huecos_libres": 4,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Huesca - Barón de Cárcer",
-    "bicis_libres": 16,
-    "huecos_libres": 3,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Tres Cruces - Pio XI",
-    "bicis_libres": 8,
-    "huecos_libres": 7,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Colón, 60",
-    "bicis_libres": 12,
-    "huecos_libres": 4,
-    "total": 16,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Colón 20-22",
-    "bicis_libres": 14,
-    "huecos_libres": 11,
+    "bicis_libres": 16,
+    "huecos_libres": 9,
     "total": 25,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1797,7 +1707,7 @@
     "huecos_libres": 11,
     "total": 16,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1807,7 +1717,7 @@
     "huecos_libres": 11,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1817,7 +1727,37 @@
     "huecos_libres": 13,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Plaza del Mercado - Taula de Canvis",
+    "bicis_libres": 10,
+    "huecos_libres": 9,
+    "total": 19,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Hospital - Horno del Hospital",
+    "bicis_libres": 9,
+    "huecos_libres": 6,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Calle Salvá - Calle Poeta Querol (Antigua ubicación MINYANA)",
+    "bicis_libres": 16,
+    "huecos_libres": 4,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1827,17 +1767,77 @@
     "huecos_libres": 12,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Valle de la Ballestera - Hospital Nueve de Octubre",
+    "bicis_libres": 3,
+    "huecos_libres": 16,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Jorge Comin (Metge) - Terrateig",
+    "bicis_libres": 0,
+    "huecos_libres": 19,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Tres Cruces - Hospital General",
+    "bicis_libres": 6,
+    "huecos_libres": 14,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Tres Cruces - Pio XI",
+    "bicis_libres": 8,
+    "huecos_libres": 7,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Huesca - Barón de Cárcer",
+    "bicis_libres": 16,
+    "huecos_libres": 3,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Colón, 60",
+    "bicis_libres": 13,
+    "huecos_libres": 3,
+    "total": 16,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Alfonso el Magnánimo - Nave",
-    "bicis_libres": 16,
-    "huecos_libres": 7,
+    "bicis_libres": 17,
+    "huecos_libres": 6,
     "total": 24,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1847,7 +1847,7 @@
     "huecos_libres": 22,
     "total": 34,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1857,7 +1857,7 @@
     "huecos_libres": 1,
     "total": 25,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1867,17 +1867,17 @@
     "huecos_libres": 1,
     "total": 25,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Alameda - Pintor Monleón",
-    "bicis_libres": 8,
-    "huecos_libres": 12,
+    "bicis_libres": 9,
+    "huecos_libres": 11,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1887,17 +1887,17 @@
     "huecos_libres": 19,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Baleares - Río Escalona",
-    "bicis_libres": 0,
-    "huecos_libres": 15,
+    "bicis_libres": 1,
+    "huecos_libres": 14,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1907,7 +1907,7 @@
     "huecos_libres": 13,
     "total": 19,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1917,17 +1917,17 @@
     "huecos_libres": 8,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Blasco Ibañez - Poeta Durán Tortajada",
-    "bicis_libres": 1,
-    "huecos_libres": 37,
+    "bicis_libres": 2,
+    "huecos_libres": 36,
     "total": 38,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1937,7 +1937,7 @@
     "huecos_libres": 4,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1947,17 +1947,7 @@
     "huecos_libres": 38,
     "total": 40,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Campillo de Altobuey (Polideportivo)",
-    "bicis_libres": 12,
-    "huecos_libres": 3,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1967,7 +1957,7 @@
     "huecos_libres": 15,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1977,7 +1967,7 @@
     "huecos_libres": 9,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -1987,117 +1977,37 @@
     "huecos_libres": 10,
     "total": 23,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Blasco Ibañez 166 - Pintor José Mongrell",
-    "bicis_libres": 0,
-    "huecos_libres": 21,
-    "total": 21,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Marino Blas de Lezo (estación Cabañal Adif)",
-    "bicis_libres": 2,
-    "huecos_libres": 26,
-    "total": 30,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Rubén Darío - Plaza Fray Luis Colomer",
-    "bicis_libres": 11,
-    "huecos_libres": 3,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Aularios Universidad de Valencia",
-    "bicis_libres": 28,
-    "huecos_libres": 2,
-    "total": 30,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Alfahuir - Duque de Mandas",
-    "bicis_libres": 2,
-    "huecos_libres": 18,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Av. de la Plata (Museo Fallero)",
-    "bicis_libres": 12,
-    "huecos_libres": 8,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Francia - Menorca",
+    "zona": "Campillo de Altobuey (Polideportivo)",
     "bicis_libres": 13,
     "huecos_libres": 2,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Blasco Ibañez, 28 (F. Geografía e Historia)",
-    "bicis_libres": 38,
-    "huecos_libres": 2,
-    "total": 40,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Blasco Ibañez, 32 (F. Filología)",
-    "bicis_libres": 31,
-    "huecos_libres": 9,
-    "total": 40,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Naranjos - Ingeniero Fausto Elio",
-    "bicis_libres": 19,
-    "huecos_libres": 0,
+    "bicis_libres": 18,
+    "huecos_libres": 1,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "UPV Galileo",
-    "bicis_libres": 27,
-    "huecos_libres": 3,
+    "bicis_libres": 30,
+    "huecos_libres": 0,
     "total": 30,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2107,7 +2017,7 @@
     "huecos_libres": 0,
     "total": 38,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2117,7 +2027,87 @@
     "huecos_libres": 20,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Av. de la Plata (Museo Fallero)",
+    "bicis_libres": 12,
+    "huecos_libres": 8,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Francia - Menorca",
+    "bicis_libres": 15,
+    "huecos_libres": 0,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Blasco Ibañez, 28 (F. Geografía e Historia)",
+    "bicis_libres": 38,
+    "huecos_libres": 2,
+    "total": 40,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Blasco Ibañez, 32 (F. Filología)",
+    "bicis_libres": 33,
+    "huecos_libres": 7,
+    "total": 40,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Blasco Ibañez 166 - Pintor José Mongrell",
+    "bicis_libres": 2,
+    "huecos_libres": 19,
+    "total": 21,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Marino Blas de Lezo (estación Cabañal Adif)",
+    "bicis_libres": 1,
+    "huecos_libres": 27,
+    "total": 30,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Rubén Darío - Plaza Fray Luis Colomer",
+    "bicis_libres": 13,
+    "huecos_libres": 1,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Alfahuir - Duque de Mandas",
+    "bicis_libres": 2,
+    "huecos_libres": 18,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2127,7 +2117,7 @@
     "huecos_libres": 5,
     "total": 25,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2137,57 +2127,17 @@
     "huecos_libres": 0,
     "total": 33,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Justo y Pastor - Duque de Gaeta",
-    "bicis_libres": 0,
-    "huecos_libres": 15,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Blasco Ibañez - Mestre Ripoll",
-    "bicis_libres": 2,
-    "huecos_libres": 18,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Ricardo Muñoz Suay - María José Victoria Fuster (C.C. El Saler)",
-    "bicis_libres": 25,
+    "zona": "Aularios Universidad de Valencia",
+    "bicis_libres": 30,
     "huecos_libres": 0,
-    "total": 25,
+    "total": 30,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Ramón Llull - Serpis",
-    "bicis_libres": 18,
-    "huecos_libres": 1,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Isabel de Villena - Mendizábal",
-    "bicis_libres": 0,
-    "huecos_libres": 20,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2197,47 +2147,17 @@
     "huecos_libres": 0,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Blasco Ibañez, 23 (F. Filosofía y Psicología)",
-    "bicis_libres": 29,
-    "huecos_libres": 1,
+    "bicis_libres": 30,
+    "huecos_libres": 0,
     "total": 30,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Benifairó de Valldigna - Joaquín Benlloch",
-    "bicis_libres": 7,
-    "huecos_libres": 7,
-    "total": 14,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Jerónimo Muñoz - Gaspar Aguilar",
-    "bicis_libres": 1,
-    "huecos_libres": 11,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Maestro Rodrigo - Manuel de Falla",
-    "bicis_libres": 4,
-    "huecos_libres": 14,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2247,7 +2167,87 @@
     "huecos_libres": 1,
     "total": 21,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Justo y Pastor - Duque de Gaeta",
+    "bicis_libres": 0,
+    "huecos_libres": 15,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Blasco Ibañez - Mestre Ripoll",
+    "bicis_libres": 2,
+    "huecos_libres": 18,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Ramón Llull - Serpis",
+    "bicis_libres": 19,
+    "huecos_libres": 0,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Isabel de Villena - Mendizábal",
+    "bicis_libres": 1,
+    "huecos_libres": 19,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Benifairó de Valldigna - Joaquín Benlloch",
+    "bicis_libres": 6,
+    "huecos_libres": 8,
+    "total": 14,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Jerónimo Muñoz - Gaspar Aguilar",
+    "bicis_libres": 1,
+    "huecos_libres": 11,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Maestro Rodrigo - Manuel de Falla",
+    "bicis_libres": 3,
+    "huecos_libres": 15,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Ricardo Muñoz Suay - María José Victoria Fuster (C.C. El Saler)",
+    "bicis_libres": 25,
+    "huecos_libres": 0,
+    "total": 25,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2257,7 +2257,7 @@
     "huecos_libres": 15,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2267,7 +2267,7 @@
     "huecos_libres": 25,
     "total": 25,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2277,17 +2277,17 @@
     "huecos_libres": 19,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Aragón - Ernesto Ferrer",
-    "bicis_libres": 17,
-    "huecos_libres": 1,
+    "bicis_libres": 16,
+    "huecos_libres": 2,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2297,7 +2297,7 @@
     "huecos_libres": 4,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2307,17 +2307,17 @@
     "huecos_libres": 0,
     "total": 25,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Blasco Ibañez - Doctor Gómez Ferrer (Clínico)",
-    "bicis_libres": 25,
-    "huecos_libres": 3,
+    "bicis_libres": 26,
+    "huecos_libres": 2,
     "total": 33,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2327,7 +2327,7 @@
     "huecos_libres": 0,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2337,137 +2337,47 @@
     "huecos_libres": 0,
     "total": 25,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Convento Carmelitas - Alboraya",
-    "bicis_libres": 2,
-    "huecos_libres": 13,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Aragón - Vicente Sancho Tello",
-    "bicis_libres": 13,
-    "huecos_libres": 5,
+    "bicis_libres": 12,
+    "huecos_libres": 6,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "UPV Trinquet",
-    "bicis_libres": 30,
-    "huecos_libres": 0,
+    "bicis_libres": 29,
+    "huecos_libres": 1,
     "total": 30,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Doctor Vicente Zaragozá - Emilio Baró",
-    "bicis_libres": 3,
-    "huecos_libres": 15,
+    "bicis_libres": 2,
+    "huecos_libres": 16,
     "total": 18,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Manuel Broseta i Pont - Naranjos",
-    "bicis_libres": 40,
-    "huecos_libres": 0,
-    "total": 40,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "UPV Informática",
-    "bicis_libres": 26,
-    "huecos_libres": 4,
-    "total": 30,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Doctor Vicente Zaragozá - Ramón Asensio",
-    "bicis_libres": 1,
-    "huecos_libres": 14,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "CALLE SANTA AMALIA  2, esquina POETA BODRIA",
-    "bicis_libres": 9,
+    "zona": "Convento Carmelitas - Alboraya",
+    "bicis_libres": 4,
     "huecos_libres": 11,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Amadeo de Saboya (frente Ayuntamiento)",
-    "bicis_libres": 11,
-    "huecos_libres": 14,
-    "total": 25,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Plaza San Felipe Neri (Mercado Algirós)",
-    "bicis_libres": 3,
-    "huecos_libres": 17,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Guillem de Castro (Torres de Quart)",
-    "bicis_libres": 8,
-    "huecos_libres": 6,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Serrería, 67",
-    "bicis_libres": 0,
-    "huecos_libres": 15,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Gómez Ferrer - Álvaro de Bazán",
-    "bicis_libres": 7,
-    "huecos_libres": 11,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2477,7 +2387,7 @@
     "huecos_libres": 15,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2487,7 +2397,7 @@
     "huecos_libres": 25,
     "total": 25,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2497,27 +2407,77 @@
     "huecos_libres": 9,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Campoamor - Músico Ginés",
+    "zona": "Amadeo de Saboya (frente Ayuntamiento)",
     "bicis_libres": 11,
-    "huecos_libres": 6,
-    "total": 19,
+    "huecos_libres": 14,
+    "total": 25,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Gaspar Aguilar - Vicente Parra",
-    "bicis_libres": 11,
-    "huecos_libres": 9,
+    "zona": "Manuel Broseta i Pont - Naranjos",
+    "bicis_libres": 40,
+    "huecos_libres": 0,
+    "total": 40,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Plaza San Felipe Neri (Mercado Algirós)",
+    "bicis_libres": 2,
+    "huecos_libres": 18,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Guillem de Castro (Torres de Quart)",
+    "bicis_libres": 8,
+    "huecos_libres": 6,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Serrería, 67",
+    "bicis_libres": 0,
+    "huecos_libres": 15,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "UPV Informática",
+    "bicis_libres": 30,
+    "huecos_libres": 0,
+    "total": 30,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Doctor Vicente Zaragozá - Ramón Asensio",
+    "bicis_libres": 1,
+    "huecos_libres": 14,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2527,57 +2487,47 @@
     "huecos_libres": 24,
     "total": 25,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Campanar - Nicasio Benlloch",
-    "bicis_libres": 2,
-    "huecos_libres": 18,
+    "zona": "CALLE SANTA AMALIA  2, esquina POETA BODRIA",
+    "bicis_libres": 9,
+    "huecos_libres": 11,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Gregorio Gea - Profesor Beltrán Báguena",
-    "bicis_libres": 17,
-    "huecos_libres": 8,
-    "total": 25,
+    "zona": "Campoamor - Músico Ginés",
+    "bicis_libres": 8,
+    "huecos_libres": 9,
+    "total": 19,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Marqués de San Juan - Diputat Lluís Lucía",
-    "bicis_libres": 1,
-    "huecos_libres": 14,
-    "total": 15,
+    "zona": "Gaspar Aguilar - Vicente Parra",
+    "bicis_libres": 11,
+    "huecos_libres": 9,
+    "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Av. Campanar (La Fe)",
-    "bicis_libres": 4,
-    "huecos_libres": 26,
-    "total": 30,
+    "zona": "Gómez Ferrer - Álvaro de Bazán",
+    "bicis_libres": 7,
+    "huecos_libres": 11,
+    "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Platero Suárez - Milagrosa",
-    "bicis_libres": 3,
-    "huecos_libres": 12,
-    "total": 15,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2587,27 +2537,7 @@
     "huecos_libres": 18,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "C/Xàtiva 30-32",
-    "bicis_libres": 13,
-    "huecos_libres": 22,
-    "total": 35,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Jerónimo Monsoriu - Alcalde Cano Coloma",
-    "bicis_libres": 18,
-    "huecos_libres": 2,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2617,17 +2547,7 @@
     "huecos_libres": 17,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Llano de la Zaidía - Doctor Olóriz",
-    "bicis_libres": 14,
-    "huecos_libres": 10,
-    "total": 24,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2637,57 +2557,87 @@
     "huecos_libres": 20,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Economista Gay - Luis Crumiere",
-    "bicis_libres": 0,
-    "huecos_libres": 19,
+    "zona": "Campanar - Nicasio Benlloch",
+    "bicis_libres": 2,
+    "huecos_libres": 18,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Reus - Alquería de la Estrella",
+    "zona": "Gregorio Gea - Profesor Beltrán Báguena",
+    "bicis_libres": 16,
+    "huecos_libres": 9,
+    "total": 25,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Marqués de San Juan - Diputat Lluís Lucía",
     "bicis_libres": 1,
     "huecos_libres": 14,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Gregorio Gea - Padre Ferris",
-    "bicis_libres": 0,
-    "huecos_libres": 20,
+    "zona": "Av. Campanar (La Fe)",
+    "bicis_libres": 3,
+    "huecos_libres": 27,
+    "total": 30,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "C/Xàtiva 30-32",
+    "bicis_libres": 13,
+    "huecos_libres": 22,
+    "total": 35,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Jerónimo Monsoriu - Alcalde Cano Coloma",
+    "bicis_libres": 20,
+    "huecos_libres": 0,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
-    "zona": "Pie de la Cruz - Rejas",
+    "zona": "Llano de la Zaidía - Doctor Olóriz",
+    "bicis_libres": 14,
+    "huecos_libres": 10,
+    "total": 24,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Platero Suárez - Milagrosa",
     "bicis_libres": 3,
     "huecos_libres": 12,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
-  },
-  {
-    "fuente": "valenbisi",
-    "tipo": "estacion_bicis",
-    "zona": "Peris y Valero - Salamanca",
-    "bicis_libres": 3,
-    "huecos_libres": 17,
-    "total": 20,
-    "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2697,7 +2647,7 @@
     "huecos_libres": 15,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2707,7 +2657,7 @@
     "huecos_libres": 10,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2717,7 +2667,7 @@
     "huecos_libres": 15,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2727,27 +2677,27 @@
     "huecos_libres": 18,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Armada Española - Mariano Cuber",
-    "bicis_libres": 16,
-    "huecos_libres": 2,
+    "bicis_libres": 15,
+    "huecos_libres": 3,
     "total": 19,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
     "tipo": "estacion_bicis",
     "zona": "Alfambra - Poeta Monmeneu",
-    "bicis_libres": 2,
-    "huecos_libres": 13,
+    "bicis_libres": 1,
+    "huecos_libres": 14,
     "total": 15,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
   },
   {
     "fuente": "valenbisi",
@@ -2757,6 +2707,56 @@
     "huecos_libres": 18,
     "total": 20,
     "abierta": true,
-    "timestamp": "2026-11-23T10:20:00"
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Economista Gay - Luis Crumiere",
+    "bicis_libres": 0,
+    "huecos_libres": 19,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Reus - Alquería de la Estrella",
+    "bicis_libres": 1,
+    "huecos_libres": 14,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Gregorio Gea - Padre Ferris",
+    "bicis_libres": 0,
+    "huecos_libres": 20,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Pie de la Cruz - Rejas",
+    "bicis_libres": 2,
+    "huecos_libres": 13,
+    "total": 15,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
+  },
+  {
+    "fuente": "valenbisi",
+    "tipo": "estacion_bicis",
+    "zona": "Peris y Valero - Salamanca",
+    "bicis_libres": 3,
+    "huecos_libres": 17,
+    "total": 20,
+    "abierta": true,
+    "timestamp": "2026-11-23T10:25:05"
   }
 ]

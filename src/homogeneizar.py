@@ -290,6 +290,19 @@ def archivo_mas_reciente(fuente):
     return max(candidatos, key=lambda ruta: ruta.stat().st_mtime)  # el modificado más tarde
 
 
+# Algo que dura más que esto ya no es una novedad: no sirve como excusa
+# ("había obras" no cuela si la calle lleva cortada dos años)
+DURACION_MAXIMA_DIAS = 60
+
+
+def duracion_razonable(r):
+    """True si el registro no tiene fechas de inicio y fin, o si dura poco."""
+    if not r["inicio"] or not r["fin"]:
+        return True
+    dias = (datetime.fromisoformat(r["fin"]) - datetime.fromisoformat(r["inicio"])).days
+    return dias <= DURACION_MAXIMA_DIAS
+
+
 def homogeneizar():
     todos = []
     for fuente, adaptador in ADAPTADORES.items():
@@ -307,6 +320,8 @@ def homogeneizar():
         nuevos = adaptador(crudos)
         # Sin descripción no hay excusa posible: fuera
         nuevos = [r for r in nuevos if r["descripcion"]]
+        # Fuera lo que dura demasiado
+        nuevos = [r for r in nuevos if duracion_razonable(r)]
         print(f"{fuente:>10}: {len(crudos):4} leídos -> {len(nuevos):4} útiles")
         todos.extend(nuevos)
 
